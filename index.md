@@ -10,4 +10,5 @@ group of [Dr. Petra Bleeker](http://www.uva.nl/en/profile/b/l/p.m.bleeker/p.m.bl
 To help Life Scientists facing issues in Bioinformatics, Statistics, Data Science and Genomics, I coordinate a [Mozilla Study Group](https://scienceparkstudygroup.github.io/studyGroup/) and 
 regularly organise events related to Bioinformatics and Data Science ([example here])(https://snakemake-days.github.io/).
 
-![](../images/IMG_8646.JPG)
+[![](../images/IMG_8646.JPG)](Summer in Ijburg)
+
