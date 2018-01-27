@@ -1,15 +1,17 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Plant Bioinformatician and Data Scientist living in the Netherlands.
 
-### More Information
+Originally trained as a "wet-lab" Plant Molecular Biologist, I progressively drifted towards Genomics and Data Science. 
+Presently, I work at the [Swammerdam Institute for Life Sciences (University of Amsterdam)](http://sils.uva.nl/) as a PostDoctoral Researcher on Tomato Genomics in the 
+group of [Dr. Petra Bleeker](http://www.uva.nl/en/profile/b/l/p.m.bleeker/p.m.bleeker.html). 
 
-A place to include any other types of information that you'd like to include about yourself.
+To help Life Scientists facing issues in Bioinformatics, Statistics, Data Science and Genomics, I coordinate a [Mozilla Study Group](https://scienceparkstudygroup.github.io/studyGroup/) and 
+regularly organise [events](events.md) on Bioinformatics and Data Science topics.
 
-### Contact me
+![](../images/IMG_8646.JPG)
 
-[email@domain.com](mailto:email@domain.com)

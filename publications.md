@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Publications
+title: List of scientific publications
 permalink: /Publications/
 ---
 
-# Peer-reviewed publications
+## NCBI PubMed search
+[PubMed query "Marc Galland"](https://www.ncbi.nlm.nih.gov/pubmed/?term=galland%2C+marc)
+
+## Peer-reviewed publications
 1. Marc Galland, Dongli He, Imen Lounifi, Erwann Arc, Gilles Clément, Sandrine Balzergue,
 Stéphanie Huguet, Gwendal Cueff, Béatrice Godin, Fabienne Granier, Halima
 Morin, Joseph Tran, Benoît Valot and Loïc Rajjou (2017). An integrated “multi-omics”
@@ -59,7 +62,7 @@ Galland, Lydia Gamet, Fabrice Varoquaux and Bruno Touraine (2008). Effects of rh
 ACC deaminase activity on Arabidopsis indicate that ethylene mediates local
 root responses to plant growth-promoting rhizobacteria. *Plant Science* 175:178-189 [https://doi.org/10.1016/j.plantsci.2008.01.020](https://doi.org/10.1016/j.plantsci.2008.01.020)
 
-# Book Chapters
+## Book Chapters
 13. Marc Galland, Imen Lounifi, Gwendal Cueff, Aurélie Baldy, Halima Morin, Dominique Job
 and Loïc Rajjou L. (2011) A role for ”omics” technologies in exploration of the seed nutritional
 quality. In SEED DEVELOPMENT: OMICS Technologies toward Improvement of Seed
