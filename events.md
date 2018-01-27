@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-permalink: /events/
+permalink: /Events/
 ---
 On this page, you will find events and initiatives that I was or still am involved in. 
 
