@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
 I am a Plant Bioinformatician and Data Scientist living in the Netherlands.
