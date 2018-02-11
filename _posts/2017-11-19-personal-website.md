@@ -4,8 +4,6 @@ author: Marc Galland
 date: 2017-11-19
 permalink: /first-post/
 ---
-
-# Making your personal website
 As I was willing to set-up a personal website for a while, I decided to give it a go following the nice example of [Sarah Stevens](http://sarahlrstevens.info/) and based on the [Jekyll now template](https://github.com/barryclark/jekyll-now).
 
 There are a few installation requirements on your local machine to version control your website and being able to preview it locally. 
