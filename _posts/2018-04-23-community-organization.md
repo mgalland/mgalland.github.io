@@ -5,10 +5,10 @@ date: 2018-04-23
 title: "Building a powerful community - values"
 ---
 
-I am reading this great book from Michael Jacoby Brown entitled ["Building Powerful Community Organizations"](https://www.scheltema.nl/nl/boek/?authortitle=brown-michael-jacoby/building-powerful-community-organizations-9780977151806).
-This post is a way for me to shape my ideas around a to-be-founded Data Clinic at the University of Amsterdam.
+Still reading the great book from Michael Jacoby Brown ["Building Powerful Community Organizations"](https://www.scheltema.nl/nl/boek/?authortitle=brown-michael-jacoby/building-powerful-community-organizations-9780977151806).
+This post is on values that I want to convey through a to-be-founded Data Clinic at the University of Amsterdam.
 
-For now, let's talk about the values of the community (taken from section I: the inside story). 
+For now, let's talk about the values of the community.
 
 ## What are the values from the Study Group & Data Clinic community?
 
