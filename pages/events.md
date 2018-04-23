@@ -18,7 +18,8 @@ On this page, you will find events and initiatives that I co-organised at the Un
 **December 15, 2017: Snakemake day**: after the success of the first Snakemake day in Paris, the [second Snakemake day](https://snakemake-days.github.io/) took place in Amsterdam on December 15 2017. It brought together the creator of Snakemake [Johannes Koster](https://johanneskoester.bitbucket.io/) together with regular users of Snakemake at both the expert and beginner levels.   
 
 From the creator of Snakemake:
-> Snakemake is a workflow engine and language. It aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment, together with a clean and modern domain specific specification language (DSL) in python style.
+
+> Snakemake is a workflow engine and language. It aims to reduce the complexity of creating workflows by providing a fast and comfortable > execution environment, together with a clean and modern domain specific specification language (DSL) in python style.
 
 {% include image.html url="/images/IMG-20171215-WA0003.jpg" description="A typical workshop scene" %}
 
