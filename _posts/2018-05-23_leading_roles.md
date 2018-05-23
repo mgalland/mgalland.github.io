@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Study Group Lead Role
-date: 2018-06-23
+date: 2018-05-23
 title: "The Study Group Lead Roles"
 ---
 
