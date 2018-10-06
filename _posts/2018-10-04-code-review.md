@@ -53,4 +53,4 @@ about code with their colleagues—conversations that simply don’t happen righ
 
 
 ### Original publication
-[Link to the paper](../literature/code-review.pdf) 
+[Link to the paper](https://arxiv.org/abs/1407.5648) 
