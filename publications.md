@@ -8,7 +8,7 @@ permalink: /Publications/
 [PubMed query "Marc Galland"](https://www.ncbi.nlm.nih.gov/pubmed/?term=galland%2C+marc)
 
 ## Peer-reviewed publications
-Sarah L.R. Stevens, Mateusz Kuzak, Carlos Martinez, Aurelia Moser, Petra M. Bleeker, Marc Galland. Building a local community of practice in scientific programming for Life Scientists. BioRXiv https://www.biorxiv.org/content/early/2018/02/15/265421
+Sarah L.R. Stevens, Mateusz Kuzak, Carlos Martinez, Aurelia Moser, Petra M. Bleeker, Marc Galland. (2018) Building a local community of practice in scientific programming for Life Scientists. _PLOS Biology_ 16(11): e2005561. https://doi.org/10.1371/journal.pbio.2005561
 
 Marc Galland, Dongli He, Imen Lounifi, Erwann Arc, Gilles Clément, Sandrine Balzergue,
 Stéphanie Huguet, Gwendal Cueff, Béatrice Godin, Fabienne Granier, Halima
