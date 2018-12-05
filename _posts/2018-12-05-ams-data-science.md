@@ -12,7 +12,7 @@ Biology has now become a data intensive field due to the exponential growth of s
 Yet, practically, most life scientists have to learn programming and data science on their own or through short one-time training events. Fueled by social sciences and especially the work of Etienne Wenger, we describe, in a recent publication, how small 'communities of practice' of life scientists can help to make this learning process easier and more efficient. By sharing good practices in programming among peers, supporting each other and sharing their practical know-how, it creates a safe-learning environment where scientific and personal progress can be made. 
 Mastering cutting-edge Machine Learning (Artificial Intelligence) techniques or applying the most recent methodology on wet laboratory experimental data become feasible and even fun!
 
-Our community of practice in scientific programming is called "Amsterdam Science Park Study Group" and has a dedicated website (www.scienceparkstudygroup.info)
+Our community of practice in scientific programming is called "Amsterdam Science Park Study Group" and has a dedicated website [www.scienceparkstudygroup.info](www.scienceparkstudygroup.info)
 
 ## References
 Website: www.scienceparkstudygroup.info
