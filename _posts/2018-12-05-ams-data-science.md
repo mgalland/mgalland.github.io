@@ -4,7 +4,7 @@ title: Publication in the Amsterdam Science Magazine
 date: 2018-12-05
 title: "Amsterdam Data Science"
 ---
-Following up the publication of the [Study Group paper in PLoS Biology]("https://github.com/mgalland/mgalland.github.io/blob/master/_posts/2018-11-28-plos-paper.md")
+Following up the publication of the [Study Group paper in PLoS Biology]("./2018-11-28-plos-paper.md")
 
 ## Summary
 Biology has now become a data intensive field due to the exponential growth of several fields especially in genomics (DNA sequencing) and 'omics' (proteomics, metabolomics) and imaging (digital imaging of plants, brain imaging). Therefore, learning how to program in computer languages such as Python or R has become a valuable asset for the common life scientists.    
