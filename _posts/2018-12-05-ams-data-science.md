@@ -4,7 +4,7 @@ title: Publication in the Amsterdam Science Magazine
 date: 2018-12-05
 title: "Amsterdam Data Science"
 ---
-Following up the publication of the [Study Group paper in PLoS Biology]("./2018-11-28-plos-paper.md")
+Following up the publication of the [Study Group paper in PLoS Biology]("./2018-11-28-plos-paper.md"), I got invited to draft a publication in the Amsterdam Science Magazine. 
 
 ## Summary
 Biology has now become a data intensive field due to the exponential growth of several fields especially in genomics (DNA sequencing) and 'omics' (proteomics, metabolomics) and imaging (digital imaging of plants, brain imaging). Therefore, learning how to program in computer languages such as Python or R has become a valuable asset for the common life scientists.    
@@ -14,11 +14,11 @@ Mastering cutting-edge Machine Learning (Artificial Intelligence) techniques or 
 
 Our community of practice in scientific programming is called "Amsterdam Science Park Study Group" and has a dedicated website [www.scienceparkstudygroup.info](https://www.scienceparkstudygroup.info)
 
+## Link to the Amsterdam Data Science magazine
+[http://amsterdamscience.org/](http://amsterdamscience.org/)
+
 ## References
 Website: https://www.scienceparkstudygroup.info  
 Publication: Stevens SLR, Kuzak M, Martinez C, Moser A, Bleeker P, et al. (2018) Building a local community of practice in scientific programming for life scientists. _PLOS Biology_ 16(11): e2005561. [https://doi.org/10.1371/journal.pbio.2005561](https://doi.org/10.1371/journal.pbio.2005561) 
-
-## Link to the Amsterdam Data Science magazine
-[http://amsterdamscience.org/](http://amsterdamscience.org/)
 
 
