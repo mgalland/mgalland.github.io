@@ -6,14 +6,16 @@ layout: page
 permalink: /CV/
 ---
 # Short introduction
-I am a support data scientist at the University of Amsterdam (Swammerdam Institute for Life Sciences) helping fellow researchers on Research Data Management and Data Analysis. On a daily basis, I work mostly with Plant Scientists that are struggling with various (plant) genomics and other "omics" issues. To reach out to more scientists and gather a community of computational life scientists, I also coordinate a Mozilla Study Group. 
+I am a support data scientist at the University of Amsterdam (Swammerdam Institute for Life Sciences) helping fellow researchers on Research Data Management and Data Analysis. On a daily basis, I work mostly with Plant Scientists that are struggling with various (plant) genomics and other "omics" issues. To reach out to more scientists and gather a community of computational life scientists, I also coordinate a Mozilla Study Group.
 
+# PDF version
+<iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="800" height="900"></iframe>
 
-# Academic experience
-## Data scientist & data steward - University of Amsterdam (The Netherlands)
-## Postdoctorate fellow - University of Amsterdam (The Netherlands)
-## Postdoctorate fellow - Institute Jean-Pierre Bourgin (Versailles, France)
-## PhD in Plant Molecular Biology - University of Montpellier (France)
+# Research experience
+- Jan 2019 - Present: Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- May 2014 - May 2018: Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- May 2010 - May 2014: Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
+- October 2006 - December 2009: PhD in Plant Molecular Biology - University of Montpellier (France)
 
 # Expertise
 
@@ -25,7 +27,3 @@ __2019-02-05/06:__ Data Carpentry Genomics workshop in Wageningen. Teacher (Vari
 ## Community building and guidance
 Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
 More info here: www.scienceparkstudygroup.info
-
-# PDF version
-
-<iframe src="https://drive.google.com/file/d/1AsDLdKBvvGiS9gPnTGM7De6KU9tb7WRZ/preview" width="800" height="900"></iframe>
