@@ -11,6 +11,8 @@ I am a support data scientist at the University of Amsterdam (Swammerdam Institu
 # PDF version
 <iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="800" height="900"></iframe>
 
+<iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="640" height="480"></iframe>
+
 # Research experience
 - Jan 2019 - Present: Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
 - May 2014 - May 2018: Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
