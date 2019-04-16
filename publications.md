@@ -14,7 +14,7 @@ Marc Galland, Dongli He, Imen Lounifi, Erwann Arc, Gilles Clément, Sandrine Bal
 Stéphanie Huguet, Gwendal Cueff, Béatrice Godin, Fabienne Granier, Halima
 Morin, Joseph Tran, Benoît Valot and Loïc Rajjou (2017). An integrated “multi-omics”
 comparison of embryo and endosperm tissue-specific features and their impact on rice
-seed quality. *Frontiers in Plant Science*. In press. [doi:10.3389/fpls.2017.01984](doi:10.3389/fpls.2017.01984)
+seed quality. *Frontiers in Plant Science*. 8:1984 [Link](https://www.frontiersin.org/articles/10.3389/fpls.2017.01984/full)
 
 Matthieu Villegente, Philippe Marmey, Claudette Job, Marc Galland, Gwendal Cueff,
 Béatrice Godin, Loïc Rajjou, Thierry Balliau, Michel Zivy, Bruno Fogliani, Valérie
