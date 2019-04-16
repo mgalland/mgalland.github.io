@@ -9,6 +9,8 @@ permalink: /CV/
 I am a support data scientist at the University of Amsterdam (Swammerdam Institute for Life Sciences) helping fellow researchers on Research Data Management and Data Analysis. On a daily basis, I work mostly with Plant Scientists that are struggling with various (plant) genomics and other "omics" issues. To reach out to more scientists and gather a community of computational life scientists, I also coordinate a Mozilla Study Group.
 
 # PDF version
+<iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="640" height="480"></ifram>
+
 <iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="640" height="480"></iframe>
 
 # Research experience
