@@ -20,7 +20,7 @@ Matthieu Villegente, Philippe Marmey, Claudette Job, Marc Galland, Gwendal Cueff
 Béatrice Godin, Loïc Rajjou, Thierry Balliau, Michel Zivy, Bruno Fogliani, Valérie
 Sarramegna-Burtet, Dominique Job (2017). The specific features of desiccation tolerance
 in seeds of the basal angiosperm Amborella trichopoda as revealed by a combination
-of histological, physiological and proteomic approaches. *Proteomes* 5:3. [doi:10.3390/proteomes5030019](doi:10.3390/proteomes5030019)
+of histological, physiological and proteomic approaches. *Proteomes* 5:3. [Link](https://www.mdpi.com/2227-7382/5/3/19)
 
 Marc Galland\* Paula van Kleeff\*, Rob Schuurink and Petra Bleeker (2016). Small
 RNAs from Bemisia tabaci are transferred to Solanum lycopersicum phloem during
