@@ -4,7 +4,12 @@ title: Building a local Carpentries institutional framework.
 date: 2019-06-26
 title: "Build a local Carpentries institutional framework"
 ---
-## Summary
+This is a speed-blog post written upon a workshop held at the CarpentryConnect 2019 conference in Manchester.
+
+# Useful guidance
+https://www.software.ac.uk/speed-blogging-and-tips-writing-one
+
+========= notes =========
 
 # Domain-specific issues (Marc)
 
