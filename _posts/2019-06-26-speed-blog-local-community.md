@@ -1,12 +1,53 @@
 ---
 layout: post
 title: Building a local Carpentries institutional framework.
-date: 2019-02-11
+date: 2019-06-26
 title: "Build a local Carpentries institutional framework"
 ---
 ## Summary
 
-## Notes: 
+# Domain-specific issues (Marc)
+
+## Red stickies (issues)
+* Open Research: different opinions and definitions. ALthough there is one (ish) term, there are many components to open science/scholarship. Who choses ? What priority?
+* Humanities/Library: how to seem relevant/rewarded(?) in my role as library within the community? 
+* Mental Health: many studies done on/about a community but without their inclusion. Leads to patronising/offensive badly aligned research goals.
+* Librarians: identity as research partners, authority. Not knowing how much data upskilling is required.
+* Social sciences: examples of digital scholarship practice that could be applied here e.g. TDM entity extraction for methods that lead to interesting research questions.
+* Libraries: difficult to change methods of working to take advantage of new technology (including training staff).
+* Librarians: language.
+* Data scientists: getting people involved (the community is too broad).
+* Humanities: identify the granularity domains to which solutions should be addressed i.e. work in a heterogeneous domain.
+* Biology: Lack of prerequisite skills + desire for advanced applications.
+* Biology: Lots of conceptual/stats knowledge needed to become proficient.
+* Biology: Huge files.
+* Biology: Heterogeneous kinds of data, analysis and tools.
+* Humanities: engage with researchers about digital practices if they are not involved in them already.
+* Human neuroscience: needs lots of data to do the most cutting edge research....but not incentivised to share (1st & last author priority).
+* Data Science: people with domain skills don't have a common language so tend to find it hard to work together (talking across, patronising)
+* Bioinformatics: standardisation.
+* Bioinformatics: software reusability.
+* Libraries: engaging a typically non-technical community to become interested in the digital.
+* Libraries: skills & knowledge gaps.
+* Libraries: Showing values to upper management / stakeholders. 
+* Libraries: showing value to upper management / stakeholders.
+* Libraries: funding for digital infrastructures & training. 
+* Biology: engaging busy academics to participate and keep participating into a domain-specific community. 
+* Climate: difficulty to engage them with the Carpentries because they think they know already (have the skills) but the fact is that they did not learn properly and have misconception.
+* Making material that can span and be pertinent across multiple domains.
+* Longitudinal evaluation of the efficacy of training. 
+* Bioinformatics: lack of skills in software engineering.
+* Computer science: jargon (gatekeeping - newcomers shy away).
+* Assumptions / lack of context (lead to layered complexity). 
+
+## Yellow stickies (untried solutions)
+* Start a repo for the issues. Comments in blog?
+* Be open. Burn it all to the ground and start over with building/sustaining your community. 
+* Host "cross-domain" workshops to bring people with similar data across disciplines.
+* Centralize curriculum maintenance & discoverability.
+
+## Green stickies (tried solutions)
+None :cry:
 
 # Local issues (Mario)
 
