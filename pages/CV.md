@@ -18,13 +18,18 @@ I am a support data scientist at the University of Amsterdam (Swammerdam Institu
 # Expertise
 
 # Training and support activities
+
 ## Carpentries workshop
 __2019-01-14/15:__ Software Carpentry workshop in Amsterdam. Co-organizer (together with Like Fokkens) and teacher (Shell basics and Git/Github). 24 attendees. [Website link](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/).
 __2019-02-05/06:__ Data Carpentry Genomics workshop in Wageningen. Teacher (Variant Calling). 35 attendees.
+__2017-12-12/13:__ Data Carpentry Genomics workshop in Amsterdam. Co-organizer and teaching. 26 attendees. 
+
 
 ## Community building and guidance
 Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
 More info here: www.scienceparkstudygroup.info
+
+# Workshop animation 
 
 
 # PDF version
