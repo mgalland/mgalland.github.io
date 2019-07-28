@@ -8,6 +8,8 @@ permalink: /Publications/
 [PubMed query "Marc Galland"](https://www.ncbi.nlm.nih.gov/pubmed/?term=galland%2C+marc)
 
 ## Peer-reviewed publications
+Jihed Chouaref, Mattijs Bliek and Marc Galland (2019). A reproducible Snakemake pipeline to analyse Illumina paired-end data from ChiP-Seq experiments. Journal of Open Source Software, 4(38), 1465, [https://doi.org/10.21105/joss.01465](https://doi.org/10.21105/joss.01465).
+
 Sarah L.R. Stevens, Mateusz Kuzak, Carlos Martinez, Aurelia Moser, Petra M. Bleeker, Marc Galland. (2018) Building a local community of practice in scientific programming for Life Scientists. _PLOS Biology_ 16(11): e2005561. [https://doi.org/10.1371/journal.pbio.2005561](https://doi.org/10.1371/journal.pbio.2005561)
 
 Marc Galland, Dongli He, Imen Lounifi, Erwann Arc, Gilles Clément, Sandrine Balzergue,
