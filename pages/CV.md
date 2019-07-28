@@ -24,7 +24,7 @@ __2019-02-05/06:__ Data Carpentry Genomics workshop in Wageningen. Teacher (Vari
 
 ## Community building and guidance
 Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
-More info here: www.scienceparkstudygroup.info
+[More info here on the Study Group website](www.scienceparkstudygroup.info).
 
 
 # PDF version
