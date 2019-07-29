@@ -16,7 +16,22 @@ To reach out to more scientists and gather a community of computational life sci
 - May 2010 - May 2014: Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
 - October 2006 - December 2009: PhD in Plant Molecular Biology - University of Montpellier (France)
 
+# Education
+
 # Expertise
+* Scientific programming in Python:
+  - Data import and transformation with `Pandas`.
+  - Machine Learning in Python with `scikit-learn`.
+  - Basic image processing with `Pillow` and `scikit-image`.
+  - bioinformatics using mostly `Biopython` for fasta/fastq sequence parsing and pipeline development with `Snakemake`.
+* Version control: daily user of git and Github.
+* Data analysis in R:
+  - data transformation and visualisation with `tidyverse`.
+  - exploratory data analysis: PCA, heatmaps, plots.
+  - unsupervised analysis: PCA, clustering.
+  - linear, generalised and regularised regressions. (`elastic net`).
+  - survival analysis (`survminer`)
+
 
 # Training and support activities
 
