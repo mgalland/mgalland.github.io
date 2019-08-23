@@ -47,6 +47,12 @@ Since 2017, I coordinate a small group of biologists willing to make progress in
 
 # Workshop animation
 
+__2018-10-02:__ DTL Communities at work: Research Software Engineers   
+__2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.
+
+# Presentations at international conferences
+
+__2019-08-28__: A tomato Lipid Transfer Protein in trichomes. R. Kortbeek, M. Galland, I. Maoz, R. Schuurink, N. Dudareva, P. Bleeker. Terpnet 2019 conference, Halle, Germany.
 
 # PDF version
 <iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="640" height="480"></ifram>
