@@ -35,10 +35,12 @@ To reach out to more scientists and gather a community of computational life sci
 
 # Training and support activities
 
-## Carpentries workshop
-__2019-01-14/15:__ Software Carpentry workshop in Amsterdam. Co-organizer (together with Like Fokkens) and teacher (Shell basics and Git/Github). 24 attendees. [Website link](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/).
-__2019-02-05/06:__ Data Carpentry Genomics workshop in Wageningen. Teacher (Variant Calling). 35 attendees.
-__2017-12-12/13:__ Data Carpentry Genomics workshop in Amsterdam. Co-organizer and teaching. 26 attendees.
+## Carpentries workshops and domain-specific workshops
+__2019-02-05/06:__ Data Carpentry Genomics workshop in Wageningen. Teacher (Variant Calling). 35 attendees.   
+__2019-01-14/15:__ Software Carpentry workshop in Amsterdam. Co-organizer (together with Like Fokkens) and teacher (Shell basics and Git/Github). 24 attendees. [Website link](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/).    
+__2017-12-17:__ Snakemake day 2017 in Amsterdam. Co-organizer. 24 attendees.   
+__2017-12-12/13:__ Data Carpentry Genomics workshop in Amsterdam. Co-organizer and teaching. 26 attendees.    
+__2016-10-17/18:__ Software Carpentry workshop in Amsterdam. Co-organizer. 25 attendees.   
 
 
 ## Community building and guidance
