@@ -48,7 +48,7 @@ __December 2017:__ Two-day [Data Carpentry Genomics workshop in Amsterdam (NL)](
 __October 2016:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://mkuzak.github.io/2016-10-17-amsterdam/). 25 attendees. Co-organizer and helper.    
 
 ## Domain-specific workshops
-__March 2019:__ [RNA-Seq data analysis](https://scienceparkstudygroup.github.io/2019-03-07-rnaseq-workshop/). Organizer and instructor. University of Amsterdam (NL). 
+__2019-03-07:__ [RNA-Seq data analysis](https://scienceparkstudygroup.github.io/2019-03-07-rnaseq-workshop/). Organizer and instructor. University of Amsterdam (NL).   
 __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
 
 ## Community building and guidance
