@@ -41,7 +41,7 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 # Training and support activities
 
 ## Carpentries workshops (two days each) 
-__November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor. 
+__November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
 __February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/. 35 attendees. Instructor.     
 __January 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/). 24 attendees. Co-organizer and instructor.   
 __December 2017:__ Two-day [Data Carpentry Genomics workshop in Amsterdam (NL)](https://aschuerch.github.io/2017-12-13-amsterdam/). Co-organizer and teaching. 26 attendees. Organizer and instructor.     
