@@ -53,7 +53,7 @@ __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer
 
 ## Community building and guidance
 Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
-[More info here on the Study Group website](www.scienceparkstudygroup.info).
+More info here: https://www.scienceparkstudygroup.info/.
 
 # Workshop animation
 __2018-10-02:__ DTL Communities at work: Research Software Engineers   
