@@ -40,8 +40,8 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 
 # Training and support activities
 
-## University courses
-__February 2020:__ Keystone Project III: Big Data 5042KPIB6Y.
+## Courses at the University of Amsterdam
+__February 2020:__ Keystone Project III: Big Data 5042KPIB6Y. 48 students (2nd year Bachelor Biologie). Lesson material development and teaching (12h). 
 
 ## Carpentries workshops (two days each) 
 __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
