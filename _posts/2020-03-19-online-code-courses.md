@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extracting one chromosome from a FASTA file with sed.
+title: Online resources for scientific programming
 date: 2020-03-19
 ---
 
