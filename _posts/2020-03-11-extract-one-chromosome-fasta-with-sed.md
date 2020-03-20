@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extracting one chromosome from a FASTA file with sed.
-date: 2019-08-07
+date: 2019-03-11
 title: "Extracting one chromosome from a FASTA file with sed"
 ---
 
