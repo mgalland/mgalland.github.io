@@ -17,7 +17,7 @@ Because of these corona-days, I have made and sent around a list of useful onlin
  
 ## Bioinformatics and Python programming
 * [A great book to get started](https://vincebuffalo.com/book/). 
-* The [Software Carpentry Lessons]](https://software-carpentry.org/lessons/) are not per se on bioinformatics but rather give a set of good practices and basic programming skills.
+* The [Software Carpentry Lessons](https://software-carpentry.org/lessons/) are not per se on bioinformatics but rather give a set of good practices and basic programming skills.
 * Whenever you want to install something on your computer, the [conda software manager](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html) is a great and easy solution for that.
 
 ## Omics
