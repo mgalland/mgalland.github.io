@@ -14,20 +14,24 @@ As someone mentioned before "let them eat the cake first" before giving the reci
 ## Input data
 The input table (first 10 lines) looks like this: 
 
-| Plant3.ID 	| Genotype  	| MeasurementDate_das 	| gene 	| Device          	| stress  	| GT   	| ExperimentID 	| projPlantSurfaceArea_mm2 	| projPlantSurfaceArea_pixels2 	|
-|-----------	|-----------	|---------------------	|------	|-----------------	|---------	|------	|--------------	|--------------------------	|------------------------------	|
-| 1395478   	| PLC7 OE 9 	| 17                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 10.063                   	| 8463                         	|
-| 1395478   	| PLC7 OE 9 	| 20                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 21.52                    	| 18098                        	|
-| 1395478   	| PLC7 OE 9 	| 22                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 32.524                   	| 27353                        	|
-| 1395478   	| PLC7 OE 9 	| 24                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 45.753                   	| 38478                        	|
-| 1395478   	| PLC7 OE 9 	| 27                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 66.382                   	| 55827                        	|
-| 1395478   	| PLC7 OE 9 	| 29                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 89.233                   	| 75045                        	|
-| 1395478   	| PLC7 OE 9 	| 31                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 121.71                   	| 102358                       	|
-| 1395478   	| PLC7 OE 9 	| 34                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 173.157                  	| 145625                       	|
-| 1395478   	| PLC7 OE 9 	| 35                  	| OE   	| Growscreen 2D 5 	| control 	| PLC7 	| 790          	| 177.728                  	| 149469                       	|
+
+```R
+> head(Plantsize_PLC7_WT, n = 10)
+    X Plant3.ID  Genotype MeasurementDate_das gene          Device  stress   GT ExperimentID projPlantSurfaceArea_mm2 projPlantSurfaceArea_pixels2
+1   1   1395478 PLC7 OE 9                  17   OE Growscreen 2D 5 control PLC7          790                   10.063                         8463
+2   2   1395478 PLC7 OE 9                  20   OE Growscreen 2D 5 control PLC7          790                   21.520                        18098
+3   3   1395478 PLC7 OE 9                  22   OE Growscreen 2D 5 control PLC7          790                   32.524                        27353
+4   4   1395478 PLC7 OE 9                  24   OE Growscreen 2D 5 control PLC7          790                   45.753                        38478
+5   5   1395478 PLC7 OE 9                  27   OE Growscreen 2D 5 control PLC7          790                   66.382                        55827
+6   6   1395478 PLC7 OE 9                  29   OE Growscreen 2D 5 control PLC7          790                   89.233                        75045
+7   7   1395478 PLC7 OE 9                  31   OE Growscreen 2D 5 control PLC7          790                  121.710                       102358
+8   8   1395478 PLC7 OE 9                  34   OE Growscreen 2D 5 control PLC7          790                  173.157                       145625
+9   9   1395478 PLC7 OE 9                  35   OE Growscreen 2D 5 control PLC7          790                  177.728                       149469
+10 10   1395478 PLC7 OE 9                  42   OE Growscreen 2D 5 control PLC7          790                  664.268                       558649
+```
 
 ## Code
-And the pièce de résistancem the code:  
+And the pièce de résistance, the actual R code:  
 
 ```R
 library("tidyverse")
@@ -38,11 +42,16 @@ Plantsize_PLC7_WT <- read.csv("~/Downloads/Plantsize_PLC7_WT.csv")
 Plantsize_PLC7_WT %>%
   group_by(GT, Genotype, MeasurementDate_das, stress) %>%
   summarise(
-    mean_plant_surface = mean(projPlantSurfaceArea_mm2, na.rm = TRUE),
-    sd = sd(projPlantSurfaceArea_mm2, na.rm = TRUE),
+    mean_plant_surface = mean(
+      projPlantSurfaceArea_mm2, 
+      na.rm = TRUE),
+    sd = sd(
+      projPlantSurfaceArea_mm2, 
+      na.rm = TRUE),
     se = sd / 2^0.5) %>%
+  
   # part 2 = ggplot with geom_smooth
-  ggplot(Plant, 
+  ggplot(., 
          mapping = aes(color = Genotype,
                        shape = Genotype, 
                        x = MeasurementDate_das,
