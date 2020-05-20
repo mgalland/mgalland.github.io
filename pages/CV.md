@@ -20,37 +20,47 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 * PhD in Plant Molecular Biology, University of Montpellier (December 2009).
 
 # Courses undertaken
-* __4-5 November 2019:__ [Best practices in programming](https://www.sib.swiss/training/course/2019-11-best-practices-programming). Basel, Switerland. Organized by the Swiss Institute of Bioinformatics. 
-* __2019-04-07/12 April 2015:__ Python for Life Scientists. TGAC, Norwich, UK.  
+* __November 2019:__ [Best practices in programming](https://www.sib.swiss/training/course/2019-11-best-practices-programming). Basel, Switerland. Organized by the Swiss Institute of Bioinformatics. 2 days.
+* __April 2015:__ Python for Life Scientists. TGAC, Norwich, UK. 5 days. 
+* __July 2014:__ [Advanced NGS Course: RNA-seq data analysis](https://www.biosb.nl/archive-courses/rna-seq-data-analysis-2014/). Leiden, The Netherlands. 2 days.
 
 # Expertise
 * Scientific programming in Python:
   - Data import and transformation with `Pandas`.
   - Machine Learning in Python with `scikit-learn`. Regularized Regressions and Random Forests. 
   - Basic image processing with `Pillow` and `scikit-image`.
-  - Daily bioinformatics: DNA-Seq, small and messenger RNA-Seq, Variant Calling, genome browsing, etc. Bioinformatic pipeline development with `Snakemake`.
+ * Bioinformatics
+  - DNA-Seq.
+  - RNA-seq: small RNAs and messenger RNAs. 
+  - Variant Calling on diploid species (freebayes).
+  - QTL and GWAS analysis with R (r/qtl2, rrBLUP, rainbowR).  
+  - Genome brower setup (JBrowse)
+  - Pipeline development with `Snakemake`.
 * Version control: `git` and Github.
 * Data analysis in R:
-  - data transformation and visualisation with `tidyverse`.
-  - exploratory data analysis: PCA, heatmaps, plots.
-  - unsupervised analysis: PCA, clustering.
-  - linear, generalised and regularised regressions. (`elastic net`).
-  - survival analysis (`survminer`)
+  - Data transformation and visualisation with `tidyverse`.
+  - Exploratory data analysis: PCA, heatmaps, advanced plotting with ggplot.
+  - Unsupervised analysis: PCA, clustering.
+  - Linear, generalised and regularised regressions. (`elastic net`).
+  - Survival analysis (`survminer`)
+* Docker containers: building of custom containers, cloud deployment.
 
-
-# Training and support activities
+# Teaching and training activities
 
 ## Courses at the University of Amsterdam
-__February 2020:__ Keystone Project III: Big Data 5042KPIB6Y. 48 students (2nd year Bachelor Biologie). Lesson material development and teaching (12h). 
+__April 2020:__ Tools in Molecular Data Analysis (5224TIMD3Y). 16 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
+__February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
+__October 2019:__ Advanced Forensics (5274ADFB6Y). 16 students (2nd year Master students). Lesson development on RNA-seq and statistical design, introduction to R and support on research project proposal writing. Teaching (6h).  
 
-## Carpentries workshops (two days each) 
+
+## Official Carpentries and Carpentry-style workshops (two days each) 
 __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
-__February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/. 35 attendees. Instructor.     
+__February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/). 35 attendees. Instructor.       
 __January 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/). 24 attendees. Co-organizer and instructor.   
 __December 2017:__ Two-day [Data Carpentry Genomics workshop in Amsterdam (NL)](https://aschuerch.github.io/2017-12-13-amsterdam/). Co-organizer and teaching. 26 attendees. Organizer and instructor.     
 __October 2016:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://mkuzak.github.io/2016-10-17-amsterdam/). 25 attendees. Co-organizer and helper.    
 
-## Domain-specific workshops
+## Other workshops
 __2019-03-07:__ [RNA-Seq data analysis](https://scienceparkstudygroup.github.io/2019-03-07-rnaseq-workshop/). Organizer and instructor. University of Amsterdam (NL).   
 __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
 

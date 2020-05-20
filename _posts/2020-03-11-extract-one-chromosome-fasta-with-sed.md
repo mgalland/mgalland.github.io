@@ -15,4 +15,4 @@ You've downloaded your favorite (plant) genome, but you'd only want to have chro
 
 You then have to remove the `>SL4.0ch02` at the end of your fasta file.   
 
-You can do it programmatically with ```head -n $(( $(wc -l S_lycopersicum_chromosomes.4.00.chrom1.fa | awk '{print $1}') - 1 )) S_lycopersicum_chromosomes.4.00.chrom1.fa > S_lycopersicum_chromosomes.4.00.chrom1.fa```
+You can do it programmatically with ```head -n $(( $(wc -l S_lycopersicum_chromosomes.4.00.chrom1.fa | awk '{print $1}') - 1 )) S_lycopersicum_chromosomes.4.00.chrom1.fa > S_lycopersicum_chromosomes.4.00.chrom1.fa``
