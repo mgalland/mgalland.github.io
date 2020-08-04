@@ -68,6 +68,12 @@ __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer
 Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
 More info here: https://www.scienceparkstudygroup.info/.
 
+# Peer reviewer
+- Member of the Editorial Board of _Elsevier Data in Brief_ since July 2020. 
+- Peer-reviewer for different journals: PLoS One, Plant Science, Plant Physiology, New Phytologist. 
+
+Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://publons.com/researcher/3169958/marc-galland/)
+
 # Workshop animation
 __2018-10-02:__ DTL Communities at work: Research Software Engineers   
 __2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.
