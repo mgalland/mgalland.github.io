@@ -48,12 +48,14 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 # Teaching and training activities
 
 ## Courses at the University of Amsterdam
+__October 2020:__ Advanced Forensics (5274ADFB6Y): 20 students (2nd year Master students). Introduction to R and multivariate data analysis with R. Teaching (9h). Fully online (cloud computing).  
 __April 2020:__ Tools in Molecular Data Analysis (5224TIMD3Y). 16 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
 __February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
 __October 2019:__ Advanced Forensics (5274ADFB6Y). 16 students (2nd year Master students). Lesson development on RNA-seq and statistical design, introduction to R and support on research project proposal writing. Teaching (6h).  
 
 
 ## Official Carpentries and Carpentry-style workshops (two days each) 
+__December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
 __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
 __February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/). 35 attendees. Instructor.       
 __January 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/). 24 attendees. Co-organizer and instructor.   
