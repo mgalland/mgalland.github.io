@@ -85,8 +85,7 @@ __2018-10-02:__ DTL Communities at work: Research Software Engineers
 __2019-08-28__: A tomato Lipid Transfer Protein in trichomes. R. Kortbeek, M. Galland, I. Maoz, R. Schuurink, N. Dudareva, P. Bleeker. Terpnet 2019 conference, Halle, Germany.
 
 # PDF version
-[To download click here](../../CV_Marc_Galland_Data_Scientist.pdf)
+[To download my CV in PDF please click here](../../CV_Marc_Galland_Data_Scientist.pdf)
 
-<iframe src="https://drive.google.com/file/d/1KLZHAj6e2CyZnbRykaVQ3TQc0Np8enE4/view?usp=sharing" width="640" height="480"></ifram>
 
 
