@@ -48,26 +48,27 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 # Teaching and training activities
 
 ## Courses at the University of Amsterdam
-__October 2020:__ Advanced Forensics (5274ADFB6Y): 20 students (2nd year Master students). Introduction to R and multivariate data analysis with R. Teaching (9h). Fully online (cloud computing).  
-__April 2020:__ Tools in Molecular Data Analysis (5224TIMD3Y). 16 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
-__February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
-__October 2019:__ Advanced Forensics (5274ADFB6Y). 16 students (2nd year Master students). Lesson development on RNA-seq and statistical design, introduction to R and support on research project proposal writing. Teaching (6h).  
+- __October 2020:__ Advanced Forensics (5274ADFB6Y): 20 students (2nd year Master students). Introduction to R and multivariate data analysis with R. Teaching (9h). Fully online (cloud computing).  
+- __April 2020:__ Tools in Molecular Data Analysis (5224TIMD3Y). 16 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
+- __February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
+- __October 2019:__ Advanced Forensics (5274ADFB6Y). 16 students (2nd year Master students). Lesson development on RNA-seq and statistical design, introduction to R and support on research project proposal writing. Teaching (6h).  
 
 
 ## Official Carpentries and Carpentry-style workshops (two days each) 
-__December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
-__November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
-__February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/). 35 attendees. Instructor.       
-__January 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/). 24 attendees. Co-organizer and instructor.   
-__December 2017:__ Two-day [Data Carpentry Genomics workshop in Amsterdam (NL)](https://aschuerch.github.io/2017-12-13-amsterdam/). Co-organizer and teaching. 26 attendees. Organizer and instructor.     
-__October 2016:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://mkuzak.github.io/2016-10-17-amsterdam/). 25 attendees. Co-organizer and helper.    
+- __December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
+- __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
+- __February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/). 35 attendees. Instructor.       
+- __January 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/). 24 attendees. Co-organizer and instructor.   
+- __December 2017:__ Two-day [Data Carpentry Genomics workshop in Amsterdam (NL)](https://aschuerch.github.io/2017-12-13-amsterdam/). Co-organizer and teaching. 26 attendees. Organizer and instructor.     
+- __October 2016:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://mkuzak.github.io/2016-10-17-amsterdam/). 25 attendees. Co-organizer and helper.    
 
 ## Other workshops
-__2019-03-07:__ [RNA-Seq data analysis](https://scienceparkstudygroup.github.io/2019-03-07-rnaseq-workshop/). Organizer and instructor. University of Amsterdam (NL).   
-__2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
+- __2019-03-07:__ [RNA-Seq data analysis](https://scienceparkstudygroup.github.io/2019-03-07-rnaseq-workshop/). Organizer and instructor. University of Amsterdam (NL).   
+- __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
 
 ## Community building and guidance
-Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
+Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development.   
+Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
 More info here: [https://www.scienceparkstudygroup.info/](https://www.scienceparkstudygroup.info/).
 
 # Peer reviewer
@@ -77,12 +78,12 @@ More info here: [https://www.scienceparkstudygroup.info/](https://www.sciencepar
 Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://publons.com/researcher/3169958/marc-galland/)
 
 # Workshop animation and participation
-__2020-10-10:__ Panel discussion at the Team Science symposium organised by [Young Science In Transition](https://scienceintransition.nl/en).      
-__2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.  
-__2018-10-02:__ DTL Communities at work: Research Software Engineers     
+- __2020-10-10:__ Panel discussion at the Team Science symposium organised by [Young Science In Transition](https://scienceintransition.nl/en).      
+- __2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.  
+- __2018-10-02:__ DTL Communities at work: Research Software Engineers     
 
 # Presentations at international conferences
-__2019-08-28__: A tomato Lipid Transfer Protein in trichomes. R. Kortbeek, M. Galland, I. Maoz, R. Schuurink, N. Dudareva, P. Bleeker. Terpnet 2019 conference, Halle, Germany.
+- __2019-08-28__: A tomato Lipid Transfer Protein in trichomes. R. Kortbeek, M. Galland, I. Maoz, R. Schuurink, N. Dudareva, P. Bleeker. Terpnet 2019 conference, Halle, Germany.
 
 # PDF version
 [To download my CV in PDF please click here](../../CV_Marc_Galland_Data_Scientist.pdf)
