@@ -77,14 +77,15 @@ More info here: https://www.scienceparkstudygroup.info/.
 Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://publons.com/researcher/3169958/marc-galland/)
 
 # Workshop animation and participation
-__2020-10-10:__ Panel discussion at the Team Science symposium organised by [Young Science In Transition](https://scienceintransition.nl/en).    
-__2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.
-__2018-10-02:__ DTL Communities at work: Research Software Engineers   
+__2020-10-10:__ Panel discussion at the Team Science symposium organised by [Young Science In Transition](https://scienceintransition.nl/en).      
+__2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.  
+__2018-10-02:__ DTL Communities at work: Research Software Engineers     
 
 # Presentations at international conferences
 __2019-08-28__: A tomato Lipid Transfer Protein in trichomes. R. Kortbeek, M. Galland, I. Maoz, R. Schuurink, N. Dudareva, P. Bleeker. Terpnet 2019 conference, Halle, Germany.
 
 # PDF version
-<iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="640" height="480"></ifram>
+
+<iframe src="https://drive.google.com/file/d/1KLZHAj6e2CyZnbRykaVQ3TQc0Np8enE4/view?usp=sharing" width="640" height="480"></ifram>
 
 <iframe src="https://drive.google.com/file/d/1HST2Ki-zvqod_0Rf5Gdnt7zmB5DvKYdd/preview" width="640" height="480"></iframe>     
