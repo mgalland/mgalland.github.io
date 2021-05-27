@@ -80,7 +80,7 @@ More info here: [https://www.scienceparkstudygroup.info/](https://www.sciencepar
 
 Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://publons.com/researcher/3169958/marc-galland/)
 
-# Workshop animation and participation
+# Workshop animation and participation  
 _ __2021-05-27:__ NWO Life Conference. "The Do's of Team Science". [Link to the workshop](https://nwolife.nl/programme/workshops-masterclasses/). 
 - __2020-10-10:__ Panel discussion at the Team Science symposium organised by [Young Science In Transition](https://scienceintransition.nl/en).      
 - __2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.  
