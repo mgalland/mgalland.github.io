@@ -11,7 +11,7 @@ To reach out to more scientists and gather a community of computational life sci
 Last but not least, I am an official Software and Data Carpentry Instructor from the [Carpentries Foundation](https://carpentries.org/). As such, I regularly organise scientific programming and data analysis workshops for researchers to teach them good practices in programming and data science. 
 
 # Research experience
-- Jan 2019 - Present: Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- Jan 2019 - Present: Support Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
 - May 2014 - May 2018: Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
 - May 2010 - May 2014: Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
 - October 2006 - December 2009: PhD in Plant Molecular Biology - University of Montpellier (France)
@@ -48,6 +48,8 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 # Teaching and training activities
 
 ## Courses at the University of Amsterdam
+- __March 2021:__ Tools in Molecular Data Analysis (5224TIMD3Y). 20 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
+- __February 2021:__ Keystone Project III: Big Data (5042KPIB6Y). 59 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
 - __October 2020:__ Advanced Forensics (5274ADFB6Y): 20 students (2nd year Master students). Introduction to R and multivariate data analysis with R. Teaching (9h). Fully online (cloud computing).  
 - __April 2020:__ Tools in Molecular Data Analysis (5224TIMD3Y). 16 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
 - __February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
@@ -55,6 +57,7 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 
 
 ## Official Carpentries and Carpentry-style workshops (two days each) 
+- __March 2021:__ Two-day [Working with geospatial data in R workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2021-March-R-geospatial-data-workshop/). 20 attendees. Co-organizer and helper.   
 - __December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
 - __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
 - __February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/). 35 attendees. Instructor.       
@@ -78,12 +81,14 @@ More info here: [https://www.scienceparkstudygroup.info/](https://www.sciencepar
 Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://publons.com/researcher/3169958/marc-galland/)
 
 # Workshop animation and participation
+_ __2021-05-27:__ NWO Life Conference. "The Do's of Team Science". [Link to the workshop](https://nwolife.nl/programme/workshops-masterclasses/). 
 - __2020-10-10:__ Panel discussion at the Team Science symposium organised by [Young Science In Transition](https://scienceintransition.nl/en).      
 - __2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.  
 - __2018-10-02:__ DTL Communities at work: Research Software Engineers     
 
-# Presentations at international conferences
-- __2019-08-28__: A tomato Lipid Transfer Protein in trichomes. R. Kortbeek, M. Galland, I. Maoz, R. Schuurink, N. Dudareva, P. Bleeker. Terpnet 2019 conference, Halle, Germany.
+# Awards
+- __2020__: NWO Team Science Award. [Link to the NWO announcement](https://www.nwo.nl/en/news/winners-announced-five-new-nwo-science-awards) also described in the [UvA Faculty of Sciences news](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2020/11/new-nwo-team-science-award-for-amsterdam-science-park-study-group.html). 
+- __2015-2017__: Marie-Curie Sklodowska Individual Fellowship. "Durable Resistance in Tomato" project. 
 
 # PDF version
 [To download my CV in PDF please click here](../../CV_Marc_Galland_Data_Scientist.pdf)
