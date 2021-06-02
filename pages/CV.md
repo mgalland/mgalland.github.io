@@ -13,6 +13,7 @@ To reach out to more scientists and gather a community of computational life sci
 Last but not least, I am an official Software and Data Carpentry Instructor from the [Carpentries Foundation](https://carpentries.org/). As such, I regularly organise scientific programming and data analysis workshops for researchers to teach them good practices in programming and data science. 
 
 # Research experience
+- __Jan 2019 - Present:__ Support Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
 - __May 2017 - Present:__ Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
 - __May 2014 - April 2017:__ Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
 - __May 2010 - May 2014:__ Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
@@ -27,29 +28,31 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 * __July 2014:__ [Advanced NGS Course: RNA-seq data analysis](https://www.biosb.nl/archive-courses/rna-seq-data-analysis-2014/). Leiden, The Netherlands. 2 days.
 
 # Expertise
-* Scientific programming in Python:
-  - Data import and transformation with `Pandas`.
-  - Machine Learning in Python with `scikit-learn`. Regularized Regressions and Random Forests. 
-  - Basic image processing with `Pillow` and `scikit-image`.
+* Scientific programming in Python:  
+    - Data import and transformation with `Pandas`.
+    - Machine Learning in Python with `scikit-learn`. Regularized Regressions and Random Forests. 
+    - Basic image processing with `Pillow` and `scikit-image`.
  * Bioinformatics
-  - DNA-Seq.
-  - RNA-seq: small RNAs and messenger RNAs. 
-  - Variant Calling on diploid species (freebayes).
-  - QTL and GWAS analysis with R (r/qtl2, rrBLUP, rainbowR).  
-  - Genome brower setup (JBrowse)
-  - Pipeline development with `Snakemake`.
+    - DNA-Seq.
+    - RNA-seq: small RNAs and messenger RNAs. 
+    - Variant Calling on diploid species (freebayes).
+    - QTL and GWAS analysis with R (r/qtl2, rrBLUP, rainbowR).  
+    - Genome brower setup (JBrowse)
+    - Pipeline development with `Snakemake`.
 * Version control: `git` and Github.
 * Data analysis in R:
-  - Data transformation and visualisation with `tidyverse`.
-  - Exploratory data analysis: PCA, heatmaps, advanced plotting with ggplot.
-  - Unsupervised analysis: PCA, clustering.
-  - Linear, generalised and regularised regressions. (`elastic net`).
-  - Survival analysis (`survminer`)
+    - Data transformation and visualisation with `tidyverse`.
+    - Exploratory data analysis: PCA, heatmaps, advanced plotting with ggplot.
+    - Unsupervised analysis: PCA, clustering.
+    - Linear, generalised and regularised regressions. (`elastic net`).
+    - Survival analysis (`survminer`)
 * Docker containers: building of custom containers, cloud deployment.
 
 # Teaching and training activities
 
 ## Courses at the University of Amsterdam
+- __March 2021:__ Tools in Molecular Data Analysis (5224TIMD3Y). 20 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
+- __February 2021:__ Keystone Project III: Big Data (5042KPIB6Y). 59 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
 - __October 2020:__ Advanced Forensics (5274ADFB6Y): 20 students (2nd year Master students). Introduction to R and multivariate data analysis with R. Teaching (9h). Fully online (cloud computing).  
 - __April 2020:__ Tools in Molecular Data Analysis (5224TIMD3Y). 16 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
 - __February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
@@ -57,6 +60,7 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 
 
 ## Official Carpentries and Carpentry-style workshops (two days each) 
+- __March 2021:__ Two-day [Working with geospatial data in R workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2021-March-R-geospatial-data-workshop/). 20 attendees. Co-organizer and helper.   
 - __December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
 - __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
 - __February 2019:__ Two-day [Data Carpentry Genomics workshop in Wageningen (NL)](https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/). 35 attendees. Instructor.       
@@ -69,11 +73,9 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 - __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
 
 ## Community building and guidance
-Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. 
+Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called the [Amsterdam Science Park Study Group](https://www.scienceparkstudygroup.info/). Together with recruitment of new members and contributors, I co-organize code-related events for computational biologists such as Carpentry workshops, Summer Schools or I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. 
 
-Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.    
-
-More info here: [https://www.scienceparkstudygroup.info/](https://www.scienceparkstudygroup.info/).
+More info here: [https://www.scienceparkstudygroup.info/](https://www.scienceparkstudygroup.info/). and on my [Events page](https://www.mgalland.info/Events/).
 
 # Peer reviewer
 - Member of the Editorial Board of _Elsevier Data in Brief_ since July 2020. 
@@ -82,12 +84,14 @@ More info here: [https://www.scienceparkstudygroup.info/](https://www.sciencepar
 Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://publons.com/researcher/3169958/marc-galland/)
 
 # Workshop animation and participation
+- __2021-05-27:__ NWO Life Conference. "The Do's of Team Science". [Link to the workshop](https://nwolife.nl/programme/workshops-masterclasses/). 
 - __2020-10-10:__ Panel discussion at the Team Science symposium organised by [Young Science In Transition](https://scienceintransition.nl/en).      
 - __2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.  
 - __2018-10-02:__ DTL Communities at work: Research Software Engineers     
 
-# Presentations at international conferences
-- __2019-08-28__: A tomato Lipid Transfer Protein in trichomes. R. Kortbeek, M. Galland, I. Maoz, R. Schuurink, N. Dudareva, P. Bleeker. Terpnet 2019 conference, Halle, Germany.
+# Awards
+- __2020__: NWO Team Science Award. [Link to the NWO announcement](https://www.nwo.nl/en/news/winners-announced-five-new-nwo-science-awards) also described in the [UvA Faculty of Sciences news](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2020/11/new-nwo-team-science-award-for-amsterdam-science-park-study-group.html). 
+- __2015-2017__: Marie-Curie Sklodowska Individual Fellowship. "Durable Resistance in Tomato" (DURETO) project. [Link to the University announcement](https://www.uva.nl/en/content/news/press-releases/2015/03/marie-curie-fellowships-awarded-to-thirteen-uva-researchers.html)
 
 # PDF version
 [To download my CV in PDF please click here](../../CV_Marc_Galland_Data_Scientist.pdf)
