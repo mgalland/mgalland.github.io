@@ -7,14 +7,16 @@ permalink: /CV/
 ---
 # Short introduction
 I am a support data scientist at the University of Amsterdam (Swammerdam Institute for Life Sciences) helping fellow researchers on Research Data Management and Data Analysis. On a daily basis, I work mostly with Plant Scientists that are struggling with various (plant) genomics and other "omics" issues. I also participate in a pilot project at the University of Amsterdam to implement the [iRODS](https://irods.org/) Open Source Data Management Software together with a graphical use interface called ["YODA"](https://yoda.sites.uu.nl/) developed by the University of Utrecht.  
-To reach out to more scientists and gather a community of computational life scientists, I also coordinate a Mozilla Study Group called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info).  
+
+To reach out to more scientists and gather a community of computational life scientists, I also coordinate a Mozilla Study Group called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info).    
+
 Last but not least, I am an official Software and Data Carpentry Instructor from the [Carpentries Foundation](https://carpentries.org/). As such, I regularly organise scientific programming and data analysis workshops for researchers to teach them good practices in programming and data science. 
 
 # Research experience
-- Jan 2019 - Present: Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
-- May 2014 - May 2018: Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
-- May 2010 - May 2014: Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
-- October 2006 - December 2009: PhD in Plant Molecular Biology - University of Montpellier (France)
+- __May 2017 - Present:__ Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- __May 2014 - April 2017:__ Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- __May 2010 - May 2014:__ Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
+- __October 2006 - December 2009:__ PhD in Plant Molecular Biology - University of Montpellier (France)
 
 # Education
 * PhD in Plant Molecular Biology, University of Montpellier (December 2009).
@@ -67,8 +69,10 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 - __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
 
 ## Community building and guidance
-Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development.   
-Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.     
+Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called "Amsterdam Science Park Study Group" and is officially linked to the [Mozilla Science Lab](https://science.mozilla.org/) organisation. I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. 
+
+Sessions can also be longer (afternoons) to dive further into a topic of interest. Furthermore, I regularly organise two-day Carpentries Foundation workshop as part of the Amsterdam Study Group activities.    
+
 More info here: [https://www.scienceparkstudygroup.info/](https://www.scienceparkstudygroup.info/).
 
 # Peer reviewer
