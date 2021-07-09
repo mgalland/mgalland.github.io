@@ -69,6 +69,8 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 - __October 2016:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://mkuzak.github.io/2016-10-17-amsterdam/). 25 attendees. Co-organizer and helper.    
 
 ## Other workshops
+- __July 2021:__ Co-organization and teaching at a one-week bioinformatic course organised by the [Experimental Plant Sciences Graduate School](https://www.graduateschool-eps.info/events/eps-bioinformatic-introduction-course/). One day of online teaching on RNA-seq. 40 participants (PhD level). 
+- __June and July 2021:__ Co-organization of the first [Amsterdam Science Park Study Group Summer School](https://scienceparkstudygroup.github.io/2021_summer_school/). Two weeks of online training in R, Python, RNA-seq, Geospatial data analysis and 16S rRNA microbiome. Around 60 non-redundant participants.    
 - __2019-03-07:__ [RNA-Seq data analysis](https://scienceparkstudygroup.github.io/2019-03-07-rnaseq-workshop/). Organizer and instructor. University of Amsterdam (NL).   
 - __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
 
