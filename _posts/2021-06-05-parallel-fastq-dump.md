@@ -15,7 +15,6 @@ SRR1266879
 SRR1266880
 SRR1266881
 SRR1266882
-etc.
 ```
 
 There is one run identifier per line. 
@@ -24,7 +23,7 @@ There is one run identifier per line.
 
 Create a `bash` with these lines:
 
-```
+```bash
 #!/bin/bash
 
 FILENAME="files2download.txt"
@@ -37,12 +36,13 @@ for LINE in $LINES; do
 done
 ```
 
-## parallel-fastq-dump
+## Annex: parallel-fastq-dump usage
 
-usage: `parallel-fastq-dump [-h] [-s SRA_ID] [-t THREADS] [-O OUTDIR] [-T TMPDIR] [-N MINSPOTID] [-X MAXSPOTID] [-V]`
+```bash
+parallel-fastq-dump [-h] [-s SRA_ID] [-t THREADS] [-O OUTDIR] [-T TMPDIR] [-N MINSPOTID] [-X MAXSPOTID] [-V]
+```
 
-parallel fastq-dump wrapper, extra args will be passed through
-
+```bash
 optional arguments:
   -h, --help            show this help message and exit
   -s SRA_ID, --sra-id SRA_ID
@@ -58,8 +58,12 @@ optional arguments:
   -X MAXSPOTID, --maxSpotId MAXSPOTID
                         Maximum spot id (default: None)
   -V, --version         shows version (default: False)
+```
 
-DESCRIPTION:
-Example: parallel-fastq-dump --sra-id SRR2244401 --threads 4 --outdir out/ --split-files --gzip
+Example:  
 
-**Source:** https://github.com/rvalieris/parallel-fastq-dump
+```bash
+parallel-fastq-dump --sra-id SRR2244401 --threads 4 --outdir out/ --split-files --gzip
+```
+
+**Source:** [https://github.com/rvalieris/parallel-fastq-dump](https://github.com/rvalieris/parallel-fastq-dump)
