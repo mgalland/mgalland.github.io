@@ -8,7 +8,12 @@ permalink: /Publications/
 [PubMed query "Marc Galland"](https://www.ncbi.nlm.nih.gov/pubmed/?term=galland%2C+marc)
 
 ## Peer-reviewed publications
-Jihed Chouaref, Mattijs Bliek and Marc Galland (2019). A reproducible Snakemake pipeline to analyse Illumina paired-end data from ChiP-Seq experiments. Journal of Open Source Software, 4(38), 1465, [https://doi.org/10.21105/joss.01465](https://doi.org/10.21105/joss.01465).
+
+Kortbeek RWJ, Galland MD, Muras A, van der Kloet FM, André B, Heilijgers M, van Hijum SAFT, Haring MA, Schuurink RC, Bleeker PM (2021). Natural variation in wild tomato trichomes; selecting metabolites that contribute to insect resistance using a random forest approach. _BMC Plant Biol_. 2;21(1):315. PMID: 34215189. [https://doi.org/10.1186/s12870-021-03070-x](https://doi.org/10.1186/s12870-021-03070-x)  
+
+Haring NL, van Bree EJ, Jordaan WS, Roels JRE, Sotomayor GC, Hey TM, White FTG, Galland MD, Smidt MP, Jacobs FMJ (2021) ZNF91 deletion in human embryonic stem cells leads to ectopic activation of SVA retrotransposons and up-regulation of KRAB zinc finger gene clusters. _Genome Res_. 31(4):551-563. PMID: 33722937. [https://doi.org/10.1101/gr.265348.120](https://doi.org/10.1101/gr.265348.120)
+
+Jihed Chouaref, Mattijs Bliek and Marc Galland (2019). A reproducible Snakemake pipeline to analyse Illumina paired-end data from ChiP-Seq experiments. _Journal of Open Source Software_, 4(38), 1465, [https://doi.org/10.21105/joss.01465](https://doi.org/10.21105/joss.01465)
 
 Sarah L.R. Stevens, Mateusz Kuzak, Carlos Martinez, Aurelia Moser, Petra M. Bleeker, Marc Galland. (2018) Building a local community of practice in scientific programming for Life Scientists. _PLOS Biology_ 16(11): e2005561. [https://doi.org/10.1371/journal.pbio.2005561](https://doi.org/10.1371/journal.pbio.2005561)
 
