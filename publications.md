@@ -71,6 +71,10 @@ Galland, Lydia Gamet, Fabrice Varoquaux and Bruno Touraine (2008). Effects of rh
 ACC deaminase activity on Arabidopsis indicate that ethylene mediates local
 root responses to plant growth-promoting rhizobacteria. *Plant Science* 175:178-189 [https://doi.org/10.1016/j.plantsci.2008.01.020](https://doi.org/10.1016/j.plantsci.2008.01.020)
 
+## Blog post
+Marc Galland and Frederike Schmitz. October 2021. Nature Index. [https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences](https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences) 
+
+
 ## Book Chapters
 Marc Galland, Imen Lounifi, Gwendal Cueff, Aurélie Baldy, Halima Morin, Dominique Job
 and Loïc Rajjou L. (2011) A role for ”omics” technologies in exploration of the seed nutritional
