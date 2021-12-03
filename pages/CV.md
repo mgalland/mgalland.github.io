@@ -92,6 +92,7 @@ Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://
 - __2018-10-02:__ DTL Communities at work: Research Software Engineers     
 
 # Awards
+- __2021__: NWO Open Science Fund. Around 15% of the grants were awarded (26/167 total applications.). [Link to the NWO announcement ("Strengthening the foundations of Open Science practices at the Amsterdam Science Park Study Group")](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants) also mentioned in the [Faculty of Science News](https://www.uva.nl/en/content/news/news/2021/10/nwo-open-science-fund-awards-six-uva-projects.html?). Co-applicant. 
 - __2020__: NWO Team Science Award. [Link to the NWO announcement](https://www.nwo.nl/en/news/winners-announced-five-new-nwo-science-awards) also described in the [UvA Faculty of Sciences news](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2020/11/new-nwo-team-science-award-for-amsterdam-science-park-study-group.html). 
 - __2015-2017__: Marie-Curie Sklodowska Individual Fellowship. "Durable Resistance in Tomato" (DURETO) project. [Link to the University announcement](https://www.uva.nl/en/content/news/press-releases/2015/03/marie-curie-fellowships-awarded-to-thirteen-uva-researchers.html)
 
