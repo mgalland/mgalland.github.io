@@ -6,6 +6,7 @@ layout: page
 permalink: /CV/
 ---
 # Short introduction
+
 I am a support data scientist at the University of Amsterdam (Swammerdam Institute for Life Sciences) helping fellow researchers on Research Data Management and Data Analysis. On a daily basis, I work mostly with Plant Scientists that are struggling with various (plant) genomics and other "omics" issues. I also participate in a pilot project at the University of Amsterdam to implement the [iRODS](https://irods.org/) Open Source Data Management Software together with a graphical use interface called ["YODA"](https://yoda.sites.uu.nl/) developed by the University of Utrecht.  
 
 To reach out to more scientists and gather a community of computational life scientists, I also coordinate a Mozilla Study Group called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info).    
@@ -60,6 +61,7 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 
 
 ## Official Carpentries and Carpentry-style workshops (two days each) 
+- __December 2022:__ Two-day Metagenomics workshop in Utrecht (NL)(https://scienceparkstudygroup.github.io/2022-12-08-shotgun-metagenomics-workshop/). 19 attendees. Co-organizer. 
 - __March 2021:__ Two-day [Working with geospatial data in R workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2021-March-R-geospatial-data-workshop/). 20 attendees. Co-organizer and helper.   
 - __December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
 - __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
@@ -92,6 +94,7 @@ Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://
 - __2018-10-02:__ DTL Communities at work: Research Software Engineers     
 
 # Awards
+- __2022__: "Grassroots Science4all" fund to promote diversity and inclusiveness of the Faculty of Science, University of Amsterdam. 
 - __2021__: NWO Open Science Fund. Around 15% of the grants were awarded (26/167 total applications.). [Link to the NWO announcement ("Strengthening the foundations of Open Science practices at the Amsterdam Science Park Study Group")](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants) also mentioned in the [Faculty of Science News](https://www.uva.nl/en/content/news/news/2021/10/nwo-open-science-fund-awards-six-uva-projects.html?). Co-applicant. 
 - __2020__: NWO Team Science Award. [Link to the NWO announcement](https://www.nwo.nl/en/news/winners-announced-five-new-nwo-science-awards) also described in the [UvA Faculty of Sciences news](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2020/11/new-nwo-team-science-award-for-amsterdam-science-park-study-group.html). 
 - __2015-2017__: Marie-Curie Sklodowska Individual Fellowship. "Durable Resistance in Tomato" (DURETO) project. [Link to the University announcement](https://www.uva.nl/en/content/news/press-releases/2015/03/marie-curie-fellowships-awarded-to-thirteen-uva-researchers.html)
