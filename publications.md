@@ -9,7 +9,12 @@ permalink: /Publications/
 
 ## Peer-reviewed publications
 
-Kortbeek RWJ, Galland MD, Muras A, van der Kloet FM, André B, Heilijgers M, van Hijum SAFT, Haring MA, Schuurink RC, Bleeker PM (2021). Natural variation in wild tomato trichomes; selecting metabolites that contribute to insect resistance using a random forest approach. _BMC Plant Biol_. 2;21(1):315. PMID: 34215189. [https://doi.org/10.1186/s12870-021-03070-x](https://doi.org/10.1186/s12870-021-03070-x)  
+Sano N, Lounifi I, Cueff G, Collet B, Clément G, Balzergue S, Huguet S, Valot B, Galland M, Rajjou L (2022). Multi-Omics Approaches Unravel Specific Features of Embryo and Endosperm in Rice Seed Germination.
+_Front Plant Sci_. Jun 9;13:867263. PMID:35755645.[doi: 10.3389/fpls.2022.867263](https://doi.org/10.3389/fpls.2022.867263).  
+
+Brandorff E, Galland M, Goedhart J. (2021) PlotXpress, a webtool for normalization and visualization of reporter expression data. _F1000Res_. Nov 8;10:1125. PMID:34900235. [](https://doi.org/10.12688/f1000research.73641.1).
+
+Kortbeek R, Galland M, Muras A, van der Kloet F, André B, Heilijgers M, van Hijum S, Haring M, Schuurink R, Bleeker P (2021). Natural variation in wild tomato trichomes; selecting metabolites that contribute to insect resistance using a random forest approach. _BMC Plant Biol_. 2;21(1):315. PMID: 34215189. [https://doi.org/10.1186/s12870-021-03070-x](https://doi.org/10.1186/s12870-021-03070-x)  
 
 Haring NL, van Bree EJ, Jordaan WS, Roels JRE, Sotomayor GC, Hey TM, White FTG, Galland MD, Smidt MP, Jacobs FMJ (2021) ZNF91 deletion in human embryonic stem cells leads to ectopic activation of SVA retrotransposons and up-regulation of KRAB zinc finger gene clusters. _Genome Res_. 31(4):551-563. PMID: 33722937. [https://doi.org/10.1101/gr.265348.120](https://doi.org/10.1101/gr.265348.120)
 

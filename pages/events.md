@@ -7,6 +7,8 @@ On this page, you will find events and initiatives that I co-organised at the Un
 
 ## Software and Data Carpentry workshops
 
+**8-9 December 2022**: Main organiser of a two-day [Data Carpentry workshop](https://scienceparkstudygroup.github.io/2022-12-08-shotgun-metagenomics-workshop/) on microbiome analysis using shotgun metagenomics in Utrecht. This workshop was kindly hosted by the [group of Anita Schürch](https://mmb-bioit.nl/) at the UMC Utrecht and several members from her group participated in teaching.     
+
 **24-25 June 2021**: I co-organised and taught at a two-day [Software Carpentry workshop](https://scienceparkstudygroup.github.io/Intro-Python-workshop/) as part of the first Amsterdam Science Park Study Group [Summer School website](https://scienceparkstudygroup.github.io/2021_summer_school/). 
 
 **13-14 January 2019**: I organised a two-day [Software Carpentry workshop](https://scienceparkstudygroup.github.io/2019-14-01-Amsterdam-Python-workshop/) in Amsterdam to teach biologists basic skills in programming. This served as a "kickstart" for experimental life scientists that need to learn some programming in order to perform their research. Since 1998, the [Software Carpentry](https://software-carpentry.org/) foundation teaches researchers computing skills to speed up their research and embrace good practices.
