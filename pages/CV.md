@@ -5,13 +5,15 @@ date: 2018-04-12
 layout: page
 permalink: /CV/
 ---
+
 # Short introduction
 
-I am a support data scientist at the University of Amsterdam (Swammerdam Institute for Life Sciences) helping fellow researchers on Research Data Management and Data Analysis. On a daily basis, I work mostly with Plant Scientists that are struggling with various (plant) genomics and other "omics" issues. I also participate in a pilot project at the University of Amsterdam to implement the [iRODS](https://irods.org/) Open Source Data Management Software together with a graphical use interface called ["YODA"](https://yoda.sites.uu.nl/) developed by the University of Utrecht.  
+Since 2019, I am a full time Support Data Scientist at the University of Amsterdam working closely with  early career life scientists at the Swammerdam Institute for Life Sciences.
+I help fellow researchers on all aspects of data from Research Data Management, "Omics" Data Analysis to applications of Machine Learning/Deep Learning to find leads or speed up tedious tasks (e.g. counting objects from images). 
 
-To reach out to more scientists and gather a community of computational life scientists, I also coordinate a Mozilla Study Group called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info).    
+To promote best practices in scientific programming and promote Open Science, I currently lead a small community of programming scientists that aims to organise training courses and co-develop tools. This community called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info) has a dedicated Slack workspace, a custom-made website and was awarded twice by the Dutch Research Council (NWO) in 2020 and 2021.       
 
-Last but not least, I am an official Software and Data Carpentry Instructor from the [Carpentries Foundation](https://carpentries.org/). As such, I regularly organise scientific programming and data analysis workshops for researchers to teach them good practices in programming and data science. 
+Last but not least, I am an official Software and Data Carpentry Instructor from the [Carpentries Foundation](https://carpentries.org/) since 2018. As such, I regularly organise scientific programming and data analysis workshops for researchers to teach them good practices in programming and data science. 
 
 # Research experience
 - __Jan 2019 - Present:__ Support Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
