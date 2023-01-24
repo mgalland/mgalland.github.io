@@ -30,32 +30,37 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 * __July 2014:__ [Advanced NGS Course: RNA-seq data analysis](https://www.biosb.nl/archive-courses/rna-seq-data-analysis-2014/). Leiden, The Netherlands. 2 days.
 
 # Expertise
-* Machine Learning in Python:  
+* **Machine Learning in Python:**  
     - Data Transformation and Explorative Data Analysis (`Pandas`, `seaborn`).    
     - Machine Learning in Python with `scikit-learn`.   
     - Object Detection in images (Deep Learning/PyTorch).  
     - Basic image processing with `Pillow` and `scikit-image`.
- * Bioinformatics:  
+ * **Bioinformatics:**  
     - DNA-Seq.
     - RNA-seq: small RNAs and messenger RNAs. 
     - Variant Calling on diploid species (freebayes).
     - QTL and GWAS analysis with R (r/qtl2, rrBLUP, rainbowR).  
     - Genome brower setup (JBrowse)
     - Pipeline development with `Snakemake`.
-* Python package development:
-  - Object-oriented programming: classes, modules, functions. 
-  - Dependency management with `poetry`.  
-  - Testing with `pytest`. 
-  - Documentation with `sphinx`.
-  - CI/CD using GitHub actions.    
-* Version control: `git` and Github.
-* Data analysis in R:
+* **Python package development:**  
+    - Object-oriented programming: classes, modules, functions. 
+    - Dependency management with `poetry`.  
+    - Testing with `pytest`. 
+    - Documentation with `sphinx`.
+    - CI/CD using GitHub actions.    
+* **Version control:**
+    - `git` 
+    - Github.
+* **Data analysis in R:**  
     - Data transformation and visualisation with `tidyverse`.
     - Exploratory data analysis: PCA, heatmaps, advanced plotting with ggplot.
     - Unsupervised analysis: PCA, clustering.
     - Linear, generalised and regularised regressions. (`elastic net`).
     - Survival analysis (`survminer`)
-* Docker containers: building of custom containers, cloud deployment.
+* **Docker containers:** 
+    - Building of custom containers.
+    - Cloud deployment.  
+
 
 # Teaching and training activities
 
