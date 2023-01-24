@@ -24,22 +24,30 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 * PhD in Plant Molecular Biology, University of Montpellier (December 2009).
 
 # Courses undertaken
+* __November 2022 - February 2023:__ [Data Science Bootcamp](https://online.datasciencedojo.com/course/data-science-bootcamp/) from the Data Science Dojo. 
 * __November 2019:__ [Best practices in programming](https://www.sib.swiss/training/course/2019-11-best-practices-programming). Basel, Switerland. Organized by the Swiss Institute of Bioinformatics. 2 days.
 * __April 2015:__ Python for Life Scientists. TGAC, Norwich, UK. 5 days. 
 * __July 2014:__ [Advanced NGS Course: RNA-seq data analysis](https://www.biosb.nl/archive-courses/rna-seq-data-analysis-2014/). Leiden, The Netherlands. 2 days.
 
 # Expertise
-* Scientific programming in Python:  
-    - Data import and transformation with `Pandas`.
-    - Machine Learning in Python with `scikit-learn`. Regularized Regressions and Random Forests. 
+* Machine Learning in Python:  
+    - Data Transformation and Explorative Data Analysis (`Pandas`, `seaborn`).    
+    - Machine Learning in Python with `scikit-learn`.   
+    - Object Detection in images (Deep Learning/PyTorch).  
     - Basic image processing with `Pillow` and `scikit-image`.
- * Bioinformatics
+ * Bioinformatics:  
     - DNA-Seq.
     - RNA-seq: small RNAs and messenger RNAs. 
     - Variant Calling on diploid species (freebayes).
     - QTL and GWAS analysis with R (r/qtl2, rrBLUP, rainbowR).  
     - Genome brower setup (JBrowse)
     - Pipeline development with `Snakemake`.
+* Python package development:
+  - Object-oriented programming: classes, modules, functions. 
+  - Dependency management with `poetry`.  
+  - Testing with `pytest`. 
+  - Documentation with `sphinx`.
+  - CI/CD using GitHub actions.    
 * Version control: `git` and Github.
 * Data analysis in R:
     - Data transformation and visualisation with `tidyverse`.
@@ -61,7 +69,7 @@ Last but not least, I am an official Software and Data Carpentry Instructor from
 
 
 ## Official Carpentries and Carpentry-style workshops (two days each) 
-- __December 2022:__ Two-day Metagenomics workshop in Utrecht (NL)(https://scienceparkstudygroup.github.io/2022-12-08-shotgun-metagenomics-workshop/). 19 attendees. Co-organizer. 
+- __December 2022:__ [Two-day Metagenomics workshop in Utrecht (NL)](https://scienceparkstudygroup.github.io/2022-12-08-shotgun-metagenomics-workshop/). 19 attendees. Co-organizer. 
 - __March 2021:__ Two-day [Working with geospatial data in R workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2021-March-R-geospatial-data-workshop/). 20 attendees. Co-organizer and helper.   
 - __December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
 - __November 2019:__ Two-day [R and Open Science workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-11-20-r-workshop/). 20 attendees. Organizer and instructor.   
