@@ -6,6 +6,9 @@ layout: page
 permalink: /CV/
 ---
 
+# PDF version
+[To download my CV in PDF please click here](https://drive.proton.me/urls/G15GATDRXW#GrfjB7b2DpT9)
+
 # Short introduction
 
 Since 2019, I am a full time Support Data Scientist at the University of Amsterdam working closely with  early career life scientists at the Swammerdam Institute for Life Sciences.
@@ -114,8 +117,7 @@ Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://
 - __2020__: NWO Team Science Award. [Link to the NWO announcement](https://www.nwo.nl/en/news/winners-announced-five-new-nwo-science-awards) also described in the [UvA Faculty of Sciences news](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2020/11/new-nwo-team-science-award-for-amsterdam-science-park-study-group.html). 
 - __2015-2017__: Marie-Curie Sklodowska Individual Fellowship. "Durable Resistance in Tomato" (DURETO) project. [Link to the University announcement](https://www.uva.nl/en/content/news/press-releases/2015/03/marie-curie-fellowships-awarded-to-thirteen-uva-researchers.html)
 
-# PDF version
-[To download my CV in PDF please click here](../../CV_Marc_Galland_Data_Scientist.pdf)
+
 
 
 

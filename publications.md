@@ -9,6 +9,8 @@ permalink: /Publications/
 
 ## Peer-reviewed publications
 
+Kortbeek RWJ, Galland MD, Muras A, Therezan R, Maia S, Haring MA, Schuurink RC, Bleeker PM. Genetic and physiological requirements for high-level sesquiterpene-production in tomato glandular trichomes. Front Plant Sci. 2023 Mar 3;14:1139274. doi: 10.3389/fpls.2023.1139274. PMID: 36938050; PMCID: PMC10020594. [https://doi.org/10.3389/fpls.2023.1139274](https://doi.org/10.3389/fpls.2023.1139274).
+
 Sano N, Lounifi I, Cueff G, Collet B, Clément G, Balzergue S, Huguet S, Valot B, Galland M, Rajjou L (2022). Multi-Omics Approaches Unravel Specific Features of Embryo and Endosperm in Rice Seed Germination.
 _Front Plant Sci_. Jun 9;13:867263. PMID:35755645.[doi: 10.3389/fpls.2022.867263](https://doi.org/10.3389/fpls.2022.867263).  
 
