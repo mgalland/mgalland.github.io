@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Since September 2023, I am working at INRAE as a Plant Researcher working to understand and improve legume species (pea, faba bean) resistance to aphid pests. I live in France near Rennes (Brittany), a region full of celtic influence and traces (see picture).
+Since September 2023, I am working at INRAE as a Plant Research Scientist working to understand and improve legume species (pea, faba bean) resistance to aphids. I live in France near Rennes (Brittany), a region full of celtic influence and traces (see picture).
 
 Originally trained as a "wet-lab" Plant Molecular Biologist, I progressively drifted towards Genomics, Data Management and Data Science applied to plant biology. I will now investigate the genetic basis of aphid resistance in legume crops, a key element of a sustanaible agriculture in temperate and arid dry Mediterranean regions.   
 

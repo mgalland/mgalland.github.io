@@ -7,21 +7,22 @@ permalink: /CV/
 ---
 
 # PDF version
-[To download my CV in PDF please click here](https://drive.proton.me/urls/G15GATDRXW#GrfjB7b2DpT9)
+[To download my CV in PDF please click here](https://drive.proton.me/urls/CCWEWVKK0W#cJ2YLXWCtQkK)
 
 # Short introduction
 
-Since 2019, I am a full time Support Data Scientist at the University of Amsterdam working closely with  early career life scientists at the Swammerdam Institute for Life Sciences.
-I help fellow researchers on all aspects of data from Research Data Management, "Omics" Data Analysis to applications of Machine Learning/Deep Learning to find leads or speed up tedious tasks (e.g. counting objects from images). 
+Since September 2023, I am employed as an INRAE Plant Research Scientist ("Chargé de Recherche") working at the Institute for Genetics, Environment and Plant Protection (UMR IGEPP) in Le Rheu (Rennes, Brittany, France). My aim is to understand the genetics and molecular basis of _Pisum sativum_ (pea) and _Vicia faba_ (faba bean) resistance to aphids from the _Acyrthosiphon pisum_ and _Aphis fabae_ species. This knowledge should help to create cultivars less susceptible to aphids and aid to augment the cultivated area of leguminous species helping in turn agriculture to become more sustainable.  
 
-To promote best practices in scientific programming and promote Open Science, I currently lead a small community of programming scientists that aims to organise training courses and co-develop tools. This community called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info) has a dedicated Slack workspace, a custom-made website and was awarded twice by the Dutch Research Council (NWO) in 2020 and 2021.       
+From January 2019 to May 2023, I was working as a full time Data Scientist at the University of Amsterdam working closely with early career plant researchers at the Swammerdam Institute for Life Sciences.
+I helped fellow scientists on all aspects of data from Research Data Management, "Omics" Data Analysis to applications of Machine Learning/Deep Learning to find leads or speed up tedious tasks (e.g. counting objects from images). 
 
-Last but not least, I am an official Software and Data Carpentry Instructor from the [Carpentries Foundation](https://carpentries.org/) since 2018. As such, I regularly organise scientific programming and data analysis workshops for researchers to teach them good practices in programming and data science. 
+To promote best practices in scientific programming and promote Open Science, I lead a small community of programming scientists that aimed to organise training courses and co-developped tools. This community is called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info) has a dedicated Slack workspace, a custom-made website and was awarded twice by the Dutch Research Council (NWO) in 2020 and 2021. It is still currently active by [board members](https://scienceparkstudygroup.info/who-we-are/). 
 
 # Research experience
+- __September 2023 - Present:__ INRAE Plant Research Scientist - IGEPP, Le Rheu (France).   
 - __Jan 2019 - Present:__ Support Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
-- __May 2017 - Present:__ Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
-- __May 2014 - April 2017:__ Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- __May 2017 - Present:__ Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (Amsterdam, The Netherlands)
+- __May 2014 - April 2017:__ Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (Amsterdam, The Netherlands)
 - __May 2010 - May 2014:__ Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
 - __October 2006 - December 2009:__ PhD in Plant Molecular Biology - University of Montpellier (France)
 
@@ -100,10 +101,9 @@ Since 2017, I coordinate a small group of biologists willing to make progress in
 More info here: [https://www.scienceparkstudygroup.info/](https://www.scienceparkstudygroup.info/). and on my [Events page](https://www.mgalland.info/Events/).
 
 # Peer reviewer
-- Member of the Editorial Board of _Elsevier Data in Brief_ since July 2020. 
-- Peer-reviewer for different journals: PLoS One, Plant Science, Plant Physiology, New Phytologist. 
+- Member of the Editorial Board of _Elsevier Data in Brief_ (2019-2020). 
+- Peer-reviewer for different journals: _PLoS One_, _Plant Science_, _Plant Physiology_, _New Phytologist_. 
 
-Publons profile: [https://publons.com/researcher/3169958/marc-galland/](https://publons.com/researcher/3169958/marc-galland/)
 
 # Workshop animation and participation
 - __2021-05-27:__ NWO Life Conference. "The Do's of Team Science". [Link to the workshop](https://nwolife.nl/programme/workshops-masterclasses/). 
