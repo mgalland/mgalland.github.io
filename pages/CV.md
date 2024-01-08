@@ -9,6 +9,7 @@ permalink: /CV/
 # PDF version
 [To download my CV in PDF please click here](https://drive.proton.me/urls/CCWEWVKK0W#cJ2YLXWCtQkK)
 
+https://drive.proton.me/urls/CCWEWVKK0W#cJ2YLXWCtQkK
 # Short introduction
 
 Since September 2023, I am employed as an INRAE Plant Research Scientist ("Chargé de Recherche") working at the Institute for Genetics, Environment and Plant Protection (UMR IGEPP) in Le Rheu (Rennes, Brittany, France). My aim is to understand the genetics and molecular basis of _Pisum sativum_ (pea) and _Vicia faba_ (faba bean) resistance to aphids from the _Acyrthosiphon pisum_ and _Aphis fabae_ species. This knowledge should help to create cultivars less susceptible to aphids and aid to augment the cultivated area of leguminous species helping in turn agriculture to become more sustainable.  
@@ -19,8 +20,8 @@ I helped fellow scientists on all aspects of data from Research Data Management,
 To promote best practices in scientific programming and promote Open Science, I lead a small community of programming scientists that aimed to organise training courses and co-developped tools. This community is called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info) has a dedicated Slack workspace, a custom-made website and was awarded twice by the Dutch Research Council (NWO) in 2020 and 2021. It is still currently active by [board members](https://scienceparkstudygroup.info/who-we-are/). 
 
 # Research experience
-- __September 2023 - Present:__ INRAE Plant Research Scientist - IGEPP, Le Rheu (France).   
-- __Jan 2019 - Present:__ Support Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- __September 2023 - Present:__ INRAE Plant Research Scientist - IGEPP, Le Rheu (France). 
+- __Jan 2019 - May 2023:__ Support Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
 - __May 2017 - Present:__ Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (Amsterdam, The Netherlands)
 - __May 2014 - April 2017:__ Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (Amsterdam, The Netherlands)
 - __May 2010 - May 2014:__ Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
