@@ -72,15 +72,21 @@ To promote best practices in scientific programming and promote Open Science, I 
 # Teaching and training activities
 
 ## Courses at the University of Amsterdam
+- __March 2023:__ Tools in Molecular Data Analysis (5224TIMD3Y). 22 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).   
+- __February 2023:__ Keystone Project III: Big Data (5042KPIB6Y). 51 students (2nd year Bachelor Biology). RNA-seq lesson material development and teaching (12h).  
+- __March 2022:__ Tools in Molecular Data Analysis (5224TIMD3Y). 23 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).   
+- __February 2022:__ Keystone Project III: Big Data (5042KPIB6Y). 46 students (2nd year Bachelor Biology). RNA-seq lesson material development and teaching (12h).  
+- __October 2021:__ Advanced Forensics (5274ADFB6Y): 16 students (2nd year Master students). Introduction to R and multivariate data analysis with R. Teaching (16h).  
 - __March 2021:__ Tools in Molecular Data Analysis (5224TIMD3Y). 20 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
-- __February 2021:__ Keystone Project III: Big Data (5042KPIB6Y). 59 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
+- __February 2021:__ Keystone Project III: Big Data (5042KPIB6Y). 59 students (2nd year Bachelor Biology). RNA-seq lesson material development and teaching (12h).   
 - __October 2020:__ Advanced Forensics (5274ADFB6Y): 20 students (2nd year Master students). Introduction to R and multivariate data analysis with R. Teaching (9h). Fully online (cloud computing).  
 - __April 2020:__ Tools in Molecular Data Analysis (5224TIMD3Y). 16 students (2nd year Master students). RNA-seq lesson material development, cloud setup (virtual machines) and online teaching (24h).    
-- __February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biologie). RNA-seq lesson material development and teaching (12h).   
+- __February 2020:__ Keystone Project III: Big Data (5042KPIB6Y). 48 students (2nd year Bachelor Biology). RNA-seq lesson material development and teaching (12h).   
 - __October 2019:__ Advanced Forensics (5274ADFB6Y). 16 students (2nd year Master students). Lesson development on RNA-seq and statistical design, introduction to R and support on research project proposal writing. Teaching (6h).  
 
 
 ## Official Carpentries and Carpentry-style workshops (two days each) 
+
 - __December 2022:__ [Two-day Metagenomics workshop in Utrecht (NL)](https://scienceparkstudygroup.github.io/2022-12-08-shotgun-metagenomics-workshop/). 19 attendees. Co-organizer. 
 - __March 2021:__ Two-day [Working with geospatial data in R workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2021-March-R-geospatial-data-workshop/). 20 attendees. Co-organizer and helper.   
 - __December 2019:__ Two-day [Software Carpentry workshop in Amsterdam (NL)](https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/). 17 attendees. Co-organizer and instructor.   
