@@ -21,8 +21,8 @@ To promote best practices in scientific programming and promote Open Science, I 
 
 # Research experience
 - __September 2023 - Present:__ INRAE Plant Research Scientist - IGEPP, Le Rheu (France). 
-- __Jan 2019 - May 2023:__ Support Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
-- __May 2017 - Present:__ Data scientist & Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (Amsterdam, The Netherlands)
+- __May 2017 - May 2023:__ Researcher and Support Data scientist - University of Amsterdam, Swammerdam Institute for Life Sciences (The Netherlands)
+- __May 2017 - Jan 2019:__ Researcher and Data Manager - University of Amsterdam, Swammerdam Institute for Life Sciences (Amsterdam, The Netherlands)
 - __May 2014 - April 2017:__ Postdoctoral fellow - University of Amsterdam, Swammerdam Institute for Life Sciences (Amsterdam, The Netherlands)
 - __May 2010 - May 2014:__ Postdoctoral fellow - Jean-Pierre Bourgin Institute (Versailles, France)
 - __October 2006 - December 2009:__ PhD in Plant Molecular Biology - University of Montpellier (France)
