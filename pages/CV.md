@@ -100,7 +100,8 @@ To promote best practices in scientific programming and promote Open Science, I 
 - __July 2021:__ Co-organization and teaching at a one-week bioinformatic course organised by the [Experimental Plant Sciences Graduate School](https://www.graduateschool-eps.info/events/eps-bioinformatic-introduction-course/). One day of online teaching on RNA-seq. 40 participants (PhD level). 
 - __June and July 2021:__ Co-organization of the first [Amsterdam Science Park Study Group Summer School](https://scienceparkstudygroup.github.io/2021_summer_school/). Two weeks of online training in R, Python, RNA-seq, Geospatial data analysis and 16S rRNA microbiome. Around 60 non-redundant participants.    
 - __2019-03-07:__ [RNA-Seq data analysis](https://scienceparkstudygroup.github.io/2019-03-07-rnaseq-workshop/). Organizer and instructor. University of Amsterdam (NL).   
-- __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer. 
+- __2017-12-17:__ Snakemake day 2017 in Amsterdam (NL). 24 attendees. Co-organizer.   
+- __2016-11-12:__ 10th anual Experimental Plant Sciences (EPS) Graduate School workshop on Plant-Insect Workshop, Leiden. Co-organizer.   
 
 ## Community building and guidance
 Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called the [Amsterdam Science Park Study Group](https://www.scienceparkstudygroup.info/). Together with recruitment of new members and contributors, I co-organize code-related events for computational biologists such as Carpentry workshops, Summer Schools or I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. 
