@@ -118,7 +118,10 @@ More info here: [https://www.scienceparkstudygroup.info/](https://www.sciencepar
 - __2019-06-24:__ Building domain-specific local and global Carpentries communities. Carpentry Connect 2019. Manchester, UK.  
 - __2018-10-02:__ DTL Communities at work: Research Software Engineers     
 
-# Awards
+# Awards  
+- __2025__: PhD funding obtained from the "PEPR Agroecology and Digital Technology".
+- __2024__: PlantAlliance 2024 "RAPP: Amelioration of Pea Resistance to Aphids".   
+- __2024__: Meta-program DIGIT-BIO INRAE 2024: "Digital phenotyping methods applied to plant aphid interactions".   
 - __2022__: "Grassroots Science4all" fund to promote diversity and inclusiveness of the Faculty of Science, University of Amsterdam. 
 - __2021__: NWO Open Science Fund. Around 15% of the grants were awarded (26/167 total applications.). [Link to the NWO announcement ("Strengthening the foundations of Open Science practices at the Amsterdam Science Park Study Group")](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants) also mentioned in the [Faculty of Science News](https://www.uva.nl/en/content/news/news/2021/10/nwo-open-science-fund-awards-six-uva-projects.html?). Co-applicant. 
 - __2020__: NWO Team Science Award. [Link to the NWO announcement](https://www.nwo.nl/en/news/winners-announced-five-new-nwo-science-awards) also described in the [UvA Faculty of Sciences news](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2020/11/new-nwo-team-science-award-for-amsterdam-science-park-study-group.html). 
