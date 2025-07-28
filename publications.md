@@ -9,9 +9,13 @@ permalink: /Publications/
 
 ## Peer-reviewed publications
 
-Lissy-Anne M. Denkers , Marc D. Galland, Annabel Dekker, Valerio Bianchi, Petra M. Bleeker (2024). PhenoFeatureFinder: a python package for linking developmental phenotypes to omics features. Journal of Open Source Software, 9(103), 7264, https://doi.org/10.21105/joss.07264.
+Denkers LM, van Doorn A, Galland M, Balcke G, de Vos M, Schuurink RC, Bleeker PM. (2025) A phloem-based defense mechanism linked to elevated riboflavin levels in wild tomato Solanum chmielewskii impedes whitefly nymphal development. Plant J. 2025 Jul;123(2):e70363. [https://doi: 10.1111/tpj.70363](https://doi: 10.1111/tpj.70363). 
 
-Kortbeek RWJ, Galland MD, Muras A, Therezan R, Maia S, Haring MA, Schuurink RC, Bleeker PM. Genetic and physiological requirements for high-level sesquiterpene-production in tomato glandular trichomes. Front Plant Sci. 2023 Mar 3;14:1139274. doi: 10.3389/fpls.2023.1139274. PMID: 36938050; PMCID: PMC10020594. [https://doi.org/10.3389/fpls.2023.1139274](https://doi.org/10.3389/fpls.2023.1139274).  
+Ollivier R, Robin S, Galland M, Shih PY, Morlière S, Paulmann MK, Gershenzon J, Kunert G, Pilet-Nayel ML, Simon JC, Sugio A (2025). Transcriptomic analysis reveals candidate molecular pathways involved in pea (Pisum sativum L.) resistance to pea aphid (Acyrthosiphon pisum Harris) biotypes. BMC Genomics. 26(1):580. [https://doi:10.1186/s12864-025-11742-3](https://doi:10.1186/s12864-025-11742-3). 
+
+Lissy-Anne M. Denkers, Marc Galland, Annabel Dekker, Valerio Bianchi, Petra M. Bleeker (2024). PhenoFeatureFinder: a python package for linking developmental phenotypes to omics features. Journal of Open Source Software, 9(103), 7264, [https://doi.org/10.21105/joss.07264](https://doi.org/10.21105/joss.07264).
+
+Kortbeek RWJ, Galland MD, Muras A, Therezan R, Maia S, Haring MA, Schuurink RC, Bleeker PM (2023).  Genetic and physiological requirements for high-level sesquiterpene-production in tomato glandular trichomes. Front Plant Sci. Mar 3;14:1139274. doi: 10.3389/fpls.2023.1139274. PMID: 36938050; PMCID: PMC10020594. [https://doi.org/10.3389/fpls.2023.1139274](https://doi.org/10.3389/fpls.2023.1139274).  
 
 Sano N, Lounifi I, Cueff G, Collet B, Clément G, Balzergue S, Huguet S, Valot B, Galland M, Rajjou L (2022). Multi-Omics Approaches Unravel Specific Features of Embryo and Endosperm in Rice Seed Germination.
 _Front Plant Sci_. Jun 9;13:867263. PMID:35755645.[doi: 10.3389/fpls.2022.867263](https://doi.org/10.3389/fpls.2022.867263).  
