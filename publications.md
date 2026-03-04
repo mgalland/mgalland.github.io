@@ -9,7 +9,7 @@ permalink: /Publications/
 
 ## Peer-reviewed publications
 
-Ollivier, R., Robin, S., Galland, M. et al. Pea transcriptional and phytohormonal responses to adapted and non-adapted aphid biotypes at early stages of infestation. Sci Rep (2026). [https://doi.org/10.1038/s41598-026-38098-2](Ollivier, R., Robin, S., Galland, M. et al. Pea transcriptional and phytohormonal responses to adapted and non-adapted aphid biotypes at early stages of infestation. Sci Rep (2026). https://doi.org/10.1038/s41598-026-38098-2)
+Ollivier, R., Robin, S., Galland, M. et al. Pea transcriptional and phytohormonal responses to adapted and non-adapted aphid biotypes at early stages of infestation. Sci Rep (2026). [https://doi.org/10.1038/s41598-026-38098-2](Ollivier, R., Robin, S., Galland, M. et al. Pea transcriptional and phytohormonal responses to adapted and non-adapted aphid biotypes at early stages of infestation. Sci Rep (2026). [https://www.nature.com/articles/s41598-026-38098-2](https://www.nature.com/articles/s41598-026-38098-2)
 
 Zinsmeister J, Sano N, Lounifi I, Groot S., He D, Lagesse M, Balzergue S, Huguet S, Huguet R, Collet B, Cueff G, Clément G, Rajjou L, Galland M (2026). Combined “omics” and physiological approaches highlight the roles of the GABA shunt and mitochondria-related functions in rice seed longevity. Plant Physiology and Biochemistry, 232(111094), [https://doi.org/10.1016/j.plaphy.2026.111094](https://doi.org/10.1016/j.plaphy.2026.111094)  
 
