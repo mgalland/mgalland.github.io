@@ -9,6 +9,8 @@ permalink: /Publications/
 
 ## Peer-reviewed publications
 
+Ollivier, R., Robin, S., Galland, M. et al. Pea transcriptional and phytohormonal responses to adapted and non-adapted aphid biotypes at early stages of infestation. Sci Rep (2026). [https://doi.org/10.1038/s41598-026-38098-2](Ollivier, R., Robin, S., Galland, M. et al. Pea transcriptional and phytohormonal responses to adapted and non-adapted aphid biotypes at early stages of infestation. Sci Rep (2026). https://doi.org/10.1038/s41598-026-38098-2)
+
 Zinsmeister J, Sano N, Lounifi I, Groot S., He D, Lagesse M, Balzergue S, Huguet S, Huguet R, Collet B, Cueff G, Clément G, Rajjou L, Galland M (2026). Combined “omics” and physiological approaches highlight the roles of the GABA shunt and mitochondria-related functions in rice seed longevity. Plant Physiology and Biochemistry, 232(111094), [https://doi.org/10.1016/j.plaphy.2026.111094](https://doi.org/10.1016/j.plaphy.2026.111094)  
 
 Denkers LM, van Doorn A, Galland M, Balcke G, de Vos M, Schuurink RC, Bleeker PM. (2025) A phloem-based defense mechanism linked to elevated riboflavin levels in wild tomato Solanum chmielewskii impedes whitefly nymphal development. Plant J. 2025 Jul;123(2):e70363. [https://doi: 10.1111/tpj.70363](https://doi: 10.1111/tpj.70363). 
@@ -87,10 +89,12 @@ ACC deaminase activity on Arabidopsis indicate that ethylene mediates local
 root responses to plant growth-promoting rhizobacteria. *Plant Science* 175:178-189 [https://doi.org/10.1016/j.plantsci.2008.01.020](https://doi.org/10.1016/j.plantsci.2008.01.020)
 
 ## Blog post
+
 Marc Galland and Frederike Schmitz. October 2021. Nature Index. [https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences](https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences) 
 
 
 ## Book Chapters
+
 Marc Galland, Imen Lounifi, Gwendal Cueff, Aurélie Baldy, Halima Morin, Dominique Job
 and Loïc Rajjou L. (2011) A role for ”omics” technologies in exploration of the seed nutritional
 quality. In SEED DEVELOPMENT: OMICS Technologies toward Improvement of Seed
