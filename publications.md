@@ -13,7 +13,7 @@ Ollivier, R., Robin, S., Galland, M. et al. Pea transcriptional and phytohormona
 
 Zinsmeister J, Sano N, Lounifi I, Groot S., He D, Lagesse M, Balzergue S, Huguet S, Huguet R, Collet B, Cueff G, Clément G, Rajjou L, Galland M (2026). Combined “omics” and physiological approaches highlight the roles of the GABA shunt and mitochondria-related functions in rice seed longevity. Plant Physiology and Biochemistry, 232(111094), [https://doi.org/10.1016/j.plaphy.2026.111094](https://doi.org/10.1016/j.plaphy.2026.111094)  
 
-Denkers LM, van Doorn A, Galland M, Balcke G, de Vos M, Schuurink RC, Bleeker PM. (2025) A phloem-based defense mechanism linked to elevated riboflavin levels in wild tomato Solanum chmielewskii impedes whitefly nymphal development. Plant J. 2025 Jul;123(2):e70363. [https://doi: 10.1111/tpj.70363](https://doi: 10.1111/tpj.70363). 
+Denkers LM, van Doorn A, Galland M, Balcke G, de Vos M, Schuurink RC, Bleeker PM. (2025) A phloem-based defense mechanism linked to elevated riboflavin levels in wild tomato Solanum chmielewskii impedes whitefly nymphal development. Plant J. 2025 Jul;123(2):e70363. [https://doi: 10.1111/tpj.70363](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.70363). 
 
 Ollivier R, Robin S, Galland M, Shih PY, Morlière S, Paulmann MK, Gershenzon J, Kunert G, Pilet-Nayel ML, Simon JC, Sugio A (2025). Transcriptomic analysis reveals candidate molecular pathways involved in pea (Pisum sativum L.) resistance to pea aphid (Acyrthosiphon pisum Harris) biotypes. BMC Genomics. 26(1):580. [https://doi:10.1186/s12864-025-11742-3](https://doi:10.1186/s12864-025-11742-3). 
 
