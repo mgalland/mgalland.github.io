@@ -7,7 +7,7 @@ permalink: /CV/
 ---
 
 # PDF version
-[To download my CV in PDF please click here](https://drive.proton.me/urls/CCWEWVKK0W#cJ2YLXWCtQkK)
+[To download my CV in PDF please click here](https://drive.proton.me/urls/8XHEK0NK2W#eaxpGwMbzu5X)
 
 # Short introduction
 
@@ -16,7 +16,7 @@ Since September 2023, I am employed as an INRAE Plant Research Scientist ("Charg
 From January 2019 to May 2023, I was working as a full time Data Scientist at the University of Amsterdam working closely with early career plant researchers at the Swammerdam Institute for Life Sciences.
 I helped fellow scientists on all aspects of data from Research Data Management, "Omics" Data Analysis to applications of Machine Learning/Deep Learning to find leads or speed up tedious tasks (e.g. counting objects from images). 
 
-To promote best practices in scientific programming and promote Open Science, I lead a small community of programming scientists that aimed to organise training courses and co-developped tools. This community is called the ["Amsterdam Science Park Study Group"](www.scienceparkstudygroup.info) has a dedicated Slack workspace, a custom-made website and was awarded twice by the Dutch Research Council (NWO) in 2020 and 2021. It is still currently active by [board members](https://scienceparkstudygroup.info/who-we-are/). 
+To promote best practices in scientific programming and promote Open Science, I lead a small community of programming scientists that aimed to organise training courses and co-developped tools. This community is called the ["Amsterdam Science Park Study Group"](https://github.com/ScienceParkStudyGroup) has a dedicated Slack workspace, a custom-made website and was awarded twice by the Dutch Research Council (NWO) in 2020 and 2021. It is still currently active by [board members](https://github.com/ScienceParkStudyGroup). 
 
 # Research experience
 - __September 2023 - Present:__ INRAE Plant Research Scientist - IGEPP, Le Rheu (France). 
@@ -103,9 +103,9 @@ To promote best practices in scientific programming and promote Open Science, I 
 - __2016-11-12:__ 10th anual Experimental Plant Sciences (EPS) Graduate School workshop on Plant-Insect Workshop, Leiden. Co-organizer.   
 
 ## Community building and guidance
-Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called the [Amsterdam Science Park Study Group](https://www.scienceparkstudygroup.info/). Together with recruitment of new members and contributors, I co-organize code-related events for computational biologists such as Carpentry workshops, Summer Schools or I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. 
+Since 2017, I coordinate a small group of biologists willing to make progress in scientific programming (data visualisation, genomics, statistics, etc.). It is called the [Amsterdam Science Park Study Group](https://github.com/ScienceParkStudyGroup). Together with recruitment of new members and contributors, I co-organize code-related events for computational biologists such as Carpentry workshops, Summer Schools or I make sure that regular one-hour sessions take place (every two weeks) and participate in lesson development. 
 
-More info here: [https://www.scienceparkstudygroup.info/](https://www.scienceparkstudygroup.info/). and on my [Events page](https://www.mgalland.info/Events/).
+More info here: [Amsterdam Science Park Study Group on GitHub](https://github.com/ScienceParkStudyGroup), and on my [Events page](https://www.mgalland.info/Events/).
 
 # Peer reviewer
 - Member of the Editorial Board of _Elsevier Data in Brief_ (2019-2020). 
